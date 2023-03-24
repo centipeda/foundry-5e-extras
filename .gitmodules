@@ -1,0 +1,3 @@
+[submodule "dnd5e-extras"]
+	path = dnd5e-extras
+	url = git@github.com:centipeda/dnd5e-extras.git
