@@ -1,0 +1,8 @@
+__pycache__/
+
+downloads/*.html
+downloads/*.json
+data/*.json
+data/*.db
+
+*.zip
