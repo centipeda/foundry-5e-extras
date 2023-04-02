@@ -1,0 +1,55 @@
+{
+  "_id": "VkRQ7glQvTWWiOCT",
+  "name": "Artificer",
+  "type": "class",
+  "img": "icons/commodities/tech/blueprint.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "SRD 5.1",
+    "identifier": "artificer",
+    "levels": 1,
+    "hitDice": "d8",
+    "hitDiceUsed": 0,
+    "advancement": [],
+    "saves": [
+      "con",
+      "int"
+    ],
+    "skills": {
+      "number": 2,
+      "choices": [
+        "arc",
+        "his",
+        "inv",
+        "med",
+        "nat",
+        "prc",
+        "slt"
+      ],
+      "value": []
+    },
+    "spellcasting": {
+      "progression": "half",
+      "ability": "int"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.0",
+    "coreVersion": "10.291",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": "extras-importer"
+  }
+}

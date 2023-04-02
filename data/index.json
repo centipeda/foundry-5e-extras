@@ -1,0 +1,618 @@
+{
+    "subclasses": {
+        "ranger": {
+            "beast-master": {
+                "url": "/ranger:beast-master",
+                "file": "downloads/ranger_beast_master.html"
+            },
+            "drakewarden": {
+                "url": "/ranger:drakewarden",
+                "file": "downloads/ranger_drakewarden.html"
+            },
+            "fey-wanderer": {
+                "url": "/ranger:fey-wanderer",
+                "file": "downloads/ranger_fey_wanderer.html"
+            },
+            "gloom-stalker": {
+                "url": "/ranger:gloom-stalker",
+                "file": "downloads/ranger_gloom_stalker.html"
+            },
+            "horizon-walker": {
+                "url": "/ranger:horizon-walker",
+                "file": "downloads/ranger_horizon_walker.html"
+            },
+            "hunter": {
+                "url": "/ranger:hunter",
+                "file": "downloads/ranger_hunter.html"
+            },
+            "monster-slayer": {
+                "url": "/ranger:monster-slayer",
+                "file": "downloads/ranger_monster_slayer.html"
+            },
+            "swarmkeeper": {
+                "url": "/ranger:swarmkeeper",
+                "file": "downloads/ranger_swarmkeeper.html"
+            }
+        },
+        "sorcerer": {
+            "aberrant-mind": {
+                "url": "/sorcerer:aberrant-mind",
+                "file": "downloads/sorcerer_aberrant_mind.html"
+            },
+            "clockwork-soul": {
+                "url": "/sorcerer:clockwork-soul",
+                "file": "downloads/sorcerer_clockwork_soul.html"
+            },
+            "draconic-bloodline": {
+                "url": "/sorcerer:draconic-bloodline",
+                "file": "downloads/sorcerer_draconic_bloodline.html"
+            },
+            "divine-soul": {
+                "url": "/sorcerer:divine-soul",
+                "file": "downloads/sorcerer_divine_soul.html"
+            },
+            "shadow-magic": {
+                "url": "/sorcerer:shadow-magic",
+                "file": "downloads/sorcerer_shadow_magic.html"
+            },
+            "storm-sorcery": {
+                "url": "/sorcerer:storm-sorcery",
+                "file": "downloads/sorcerer_storm_sorcery.html"
+            },
+            "wild-magic": {
+                "url": "/sorcerer:wild-magic",
+                "file": "downloads/sorcerer_wild_magic.html"
+            },
+            "pyromancy": {
+                "url": "/sorcerer:pyromancy",
+                "file": "downloads/sorcerer_pyromancy.html"
+            },
+            "runechild": {
+                "url": "/sorcerer:runechild",
+                "file": "downloads/sorcerer_runechild.html"
+            },
+            "runechild-reborn": {
+                "url": "/sorcerer:runechild-reborn",
+                "file": "downloads/sorcerer_runechild_reborn.html"
+            }
+        },
+        "druid": {
+            "dreams": {
+                "url": "/druid:dreams",
+                "file": "downloads/druid_dreams.html"
+            },
+            "land": {
+                "url": "/druid:land",
+                "file": "downloads/druid_land.html"
+            },
+            "moon": {
+                "url": "/druid:moon",
+                "file": "downloads/druid_moon.html"
+            },
+            "shepherd": {
+                "url": "/druid:shepherd",
+                "file": "downloads/druid_shepherd.html"
+            },
+            "spores": {
+                "url": "/druid:spores",
+                "file": "downloads/druid_spores.html"
+            },
+            "stars": {
+                "url": "/druid:stars",
+                "file": "downloads/druid_stars.html"
+            },
+            "wildfire": {
+                "url": "/druid:wildfire",
+                "file": "downloads/druid_wildfire.html"
+            },
+            "blighted": {
+                "url": "/druid:blighted",
+                "file": "downloads/druid_blighted.html"
+            },
+            "forged-hb": {
+                "url": "/druid:forged-hb",
+                "file": "downloads/druid_forged_hb.html"
+            }
+        },
+        "fighter": {
+            "arcane-archer": {
+                "url": "/fighter:arcane-archer",
+                "file": "downloads/fighter_arcane_archer.html"
+            },
+            "banneret": {
+                "url": "/fighter:banneret",
+                "file": "downloads/fighter_banneret.html"
+            },
+            "battle-master": {
+                "url": "/fighter:battle-master",
+                "file": "downloads/fighter_battle_master.html"
+            },
+            "cavalier": {
+                "url": "/fighter:cavalier",
+                "file": "downloads/fighter_cavalier.html"
+            },
+            "champion": {
+                "url": "/fighter:champion",
+                "file": "downloads/fighter_champion.html"
+            },
+            "echo-knight": {
+                "url": "/fighter:echo-knight",
+                "file": "downloads/fighter_echo_knight.html"
+            },
+            "eldritch-knight": {
+                "url": "/fighter:eldritch-knight",
+                "file": "downloads/fighter_eldritch_knight.html"
+            },
+            "psi-warrior": {
+                "url": "/fighter:psi-warrior",
+                "file": "downloads/fighter_psi_warrior.html"
+            },
+            "rune-knight": {
+                "url": "/fighter:rune-knight",
+                "file": "downloads/fighter_rune_knight.html"
+            },
+            "samurai": {
+                "url": "/fighter:samurai",
+                "file": "downloads/fighter_samurai.html"
+            },
+            "gunslinger": {
+                "url": "/fighter:gunslinger",
+                "file": "downloads/fighter_gunslinger.html"
+            },
+            "renegade": {
+                "url": "/fighter:renegade",
+                "file": "downloads/fighter_renegade.html"
+            }
+        },
+        "barbarian": {
+            "ancestral-guardian": {
+                "url": "/barbarian:ancestral-guardian",
+                "file": "downloads/barbarian_ancestral_guardian.html"
+            },
+            "battlerager": {
+                "url": "/barbarian:battlerager",
+                "file": "downloads/barbarian_battlerager.html"
+            },
+            "beast": {
+                "url": "/barbarian:beast",
+                "file": "downloads/barbarian_beast.html"
+            },
+            "berserker": {
+                "url": "/barbarian:berserker",
+                "file": "downloads/barbarian_berserker.html"
+            },
+            "storm-herald": {
+                "url": "/barbarian:storm-herald",
+                "file": "downloads/barbarian_storm_herald.html"
+            },
+            "totem-warrior": {
+                "url": "/barbarian:totem-warrior",
+                "file": "downloads/barbarian_totem_warrior.html"
+            },
+            "wild-magic": {
+                "url": "/barbarian:wild-magic",
+                "file": "downloads/barbarian_wild_magic.html"
+            },
+            "zealot": {
+                "url": "/barbarian:zealot",
+                "file": "downloads/barbarian_zealot.html"
+            },
+            "juggernaut": {
+                "url": "/barbarian:juggernaut",
+                "file": "downloads/barbarian_juggernaut.html"
+            },
+            "juggernaut-reborn": {
+                "url": "/barbarian:juggernaut-reborn",
+                "file": "downloads/barbarian_juggernaut_reborn.html"
+            },
+            "path-of-the-depths-pc": {
+                "url": "/barbarian:path-of-the-depths-pc",
+                "file": "downloads/barbarian_path_of_the_depths_pc.html"
+            }
+        },
+        "monk": {
+            "mercy": {
+                "url": "/monk:mercy",
+                "file": "downloads/monk_mercy.html"
+            },
+            "ascendant-dragon": {
+                "url": "/monk:ascendant-dragon",
+                "file": "downloads/monk_ascendant_dragon.html"
+            },
+            "astral-self": {
+                "url": "/monk:astral-self",
+                "file": "downloads/monk_astral_self.html"
+            },
+            "drunken-master": {
+                "url": "/monk:drunken-master",
+                "file": "downloads/monk_drunken_master.html"
+            },
+            "four-elements": {
+                "url": "/monk:four-elements",
+                "file": "downloads/monk_four_elements.html"
+            },
+            "kensei": {
+                "url": "/monk:kensei",
+                "file": "downloads/monk_kensei.html"
+            },
+            "long-death": {
+                "url": "/monk:long-death",
+                "file": "downloads/monk_long_death.html"
+            },
+            "open-hand": {
+                "url": "/monk:open-hand",
+                "file": "downloads/monk_open_hand.html"
+            },
+            "shadow": {
+                "url": "/monk:shadow",
+                "file": "downloads/monk_shadow.html"
+            },
+            "sun-soul": {
+                "url": "/monk:sun-soul",
+                "file": "downloads/monk_sun_soul.html"
+            },
+            "cobalt-soul": {
+                "url": "/monk:cobalt-soul",
+                "file": "downloads/monk_cobalt_soul.html"
+            },
+            "living-weapon": {
+                "url": "/monk:living-weapon",
+                "file": "downloads/monk_living_weapon.html"
+            },
+            "soul-knife": {
+                "url": "/monk:soul-knife",
+                "file": "downloads/monk_soul_knife.html"
+            }
+        },
+        "warlock": {
+            "archfey": {
+                "url": "/warlock:archfey",
+                "file": "downloads/warlock_archfey.html"
+            },
+            "celestial": {
+                "url": "/warlock:celestial",
+                "file": "downloads/warlock_celestial.html"
+            },
+            "fathomless": {
+                "url": "/warlock:fathomless",
+                "file": "downloads/warlock_fathomless.html"
+            },
+            "fiend": {
+                "url": "/warlock:fiend",
+                "file": "downloads/warlock_fiend.html"
+            },
+            "the-genie": {
+                "url": "/warlock:the-genie",
+                "file": "downloads/warlock_the_genie.html"
+            },
+            "great-old-one": {
+                "url": "/warlock:great-old-one",
+                "file": "downloads/warlock_great_old_one.html"
+            },
+            "hexblade": {
+                "url": "/warlock:hexblade",
+                "file": "downloads/warlock_hexblade.html"
+            },
+            "undead": {
+                "url": "/warlock:undead",
+                "file": "downloads/warlock_undead.html"
+            },
+            "undying": {
+                "url": "/warlock:undying",
+                "file": "downloads/warlock_undying.html"
+            },
+            "kraken": {
+                "url": "/warlock:kraken",
+                "file": "downloads/warlock_kraken.html"
+            }
+        },
+        "wizard": {
+            "abjuration": {
+                "url": "/wizard:abjuration",
+                "file": "downloads/wizard_abjuration.html"
+            },
+            "bladesinging": {
+                "url": "/wizard:bladesinging",
+                "file": "downloads/wizard_bladesinging.html"
+            },
+            "chronurgy": {
+                "url": "/wizard:chronurgy",
+                "file": "downloads/wizard_chronurgy.html"
+            },
+            "conjuration": {
+                "url": "/wizard:conjuration",
+                "file": "downloads/wizard_conjuration.html"
+            },
+            "divination": {
+                "url": "/wizard:divination",
+                "file": "downloads/wizard_divination.html"
+            },
+            "enchantment": {
+                "url": "/wizard:enchantment",
+                "file": "downloads/wizard_enchantment.html"
+            },
+            "evocation": {
+                "url": "/wizard:evocation",
+                "file": "downloads/wizard_evocation.html"
+            },
+            "graviturgy": {
+                "url": "/wizard:graviturgy",
+                "file": "downloads/wizard_graviturgy.html"
+            },
+            "illusion": {
+                "url": "/wizard:illusion",
+                "file": "downloads/wizard_illusion.html"
+            },
+            "necromancy": {
+                "url": "/wizard:necromancy",
+                "file": "downloads/wizard_necromancy.html"
+            },
+            "order-of-scribes": {
+                "url": "/wizard:order-of-scribes",
+                "file": "downloads/wizard_order_of_scribes.html"
+            },
+            "transmutation": {
+                "url": "/wizard:transmutation",
+                "file": "downloads/wizard_transmutation.html"
+            },
+            "war-magic": {
+                "url": "/wizard:war-magic",
+                "file": "downloads/wizard_war_magic.html"
+            },
+            "blood-magic": {
+                "url": "/wizard:blood-magic",
+                "file": "downloads/wizard_blood_magic.html"
+            }
+        },
+        "paladin": {
+            "ancients": {
+                "url": "/paladin:ancients",
+                "file": "downloads/paladin_ancients.html"
+            },
+            "conquest": {
+                "url": "/paladin:conquest",
+                "file": "downloads/paladin_conquest.html"
+            },
+            "crown": {
+                "url": "/paladin:crown",
+                "file": "downloads/paladin_crown.html"
+            },
+            "devotion": {
+                "url": "/paladin:devotion",
+                "file": "downloads/paladin_devotion.html"
+            },
+            "glory": {
+                "url": "/paladin:glory",
+                "file": "downloads/paladin_glory.html"
+            },
+            "redemption": {
+                "url": "/paladin:redemption",
+                "file": "downloads/paladin_redemption.html"
+            },
+            "vengeance": {
+                "url": "/paladin:vengeance",
+                "file": "downloads/paladin_vengeance.html"
+            },
+            "watchers": {
+                "url": "/paladin:watchers",
+                "file": "downloads/paladin_watchers.html"
+            },
+            "oathbreaker": {
+                "url": "/paladin:oathbreaker",
+                "file": "downloads/paladin_oathbreaker.html"
+            },
+            "open-sea": {
+                "url": "/paladin:open-sea",
+                "file": "downloads/paladin_open_sea.html"
+            }
+        },
+        "rogue": {
+            "arcane-trickster": {
+                "url": "/rogue:arcane-trickster",
+                "file": "downloads/rogue_arcane_trickster.html"
+            },
+            "assassin": {
+                "url": "/rogue:assassin",
+                "file": "downloads/rogue_assassin.html"
+            },
+            "inquisitive": {
+                "url": "/rogue:inquisitive",
+                "file": "downloads/rogue_inquisitive.html"
+            },
+            "mastermind": {
+                "url": "/rogue:mastermind",
+                "file": "downloads/rogue_mastermind.html"
+            },
+            "phantom": {
+                "url": "/rogue:phantom",
+                "file": "downloads/rogue_phantom.html"
+            },
+            "scout": {
+                "url": "/rogue:scout",
+                "file": "downloads/rogue_scout.html"
+            },
+            "soulknife": {
+                "url": "/rogue:soulknife",
+                "file": "downloads/rogue_soulknife.html"
+            },
+            "swashbuckler": {
+                "url": "/rogue:swashbuckler",
+                "file": "downloads/rogue_swashbuckler.html"
+            },
+            "thief": {
+                "url": "/rogue:thief",
+                "file": "downloads/rogue_thief.html"
+            },
+            "wild-card": {
+                "url": "/rogue:wild-card",
+                "file": "downloads/rogue_wild_card.html"
+            }
+        },
+        "cleric": {
+            "arcana": {
+                "url": "/cleric:arcana",
+                "file": "downloads/cleric_arcana.html"
+            },
+            "death": {
+                "url": "/cleric:death",
+                "file": "downloads/cleric_death.html"
+            },
+            "forge": {
+                "url": "/cleric:forge",
+                "file": "downloads/cleric_forge.html"
+            },
+            "grave": {
+                "url": "/cleric:grave",
+                "file": "downloads/cleric_grave.html"
+            },
+            "knowledge": {
+                "url": "/cleric:knowledge",
+                "file": "downloads/cleric_knowledge.html"
+            },
+            "life": {
+                "url": "/cleric:life",
+                "file": "downloads/cleric_life.html"
+            },
+            "light": {
+                "url": "/cleric:light",
+                "file": "downloads/cleric_light.html"
+            },
+            "nature": {
+                "url": "/cleric:nature",
+                "file": "downloads/cleric_nature.html"
+            },
+            "order": {
+                "url": "/cleric:order",
+                "file": "downloads/cleric_order.html"
+            },
+            "peace": {
+                "url": "/cleric:peace",
+                "file": "downloads/cleric_peace.html"
+            },
+            "tempest": {
+                "url": "/cleric:tempest",
+                "file": "downloads/cleric_tempest.html"
+            },
+            "trickery": {
+                "url": "/cleric:trickery",
+                "file": "downloads/cleric_trickery.html"
+            },
+            "twilight": {
+                "url": "/cleric:twilight",
+                "file": "downloads/cleric_twilight.html"
+            },
+            "war": {
+                "url": "/cleric:war",
+                "file": "downloads/cleric_war.html"
+            },
+            "ambition": {
+                "url": "/cleric:ambition",
+                "file": "downloads/cleric_ambition.html"
+            },
+            "solidarity": {
+                "url": "/cleric:solidarity",
+                "file": "downloads/cleric_solidarity.html"
+            },
+            "strength": {
+                "url": "/cleric:strength",
+                "file": "downloads/cleric_strength.html"
+            },
+            "zeal": {
+                "url": "/cleric:zeal",
+                "file": "downloads/cleric_zeal.html"
+            },
+            "blood": {
+                "url": "/cleric:blood",
+                "file": "downloads/cleric_blood.html"
+            },
+            "blood-reborn": {
+                "url": "/cleric:blood-reborn",
+                "file": "downloads/cleric_blood_reborn.html"
+            },
+            "mind": {
+                "url": "/cleric:mind",
+                "file": "downloads/cleric_mind.html"
+            },
+            "moon": {
+                "url": "/cleric:moon",
+                "file": "downloads/cleric_moon.html"
+            }
+        },
+        "artificer": {
+            "alchemist": {
+                "url": "/artificer:alchemist",
+                "file": "downloads/artificer_alchemist.html"
+            },
+            "armorer": {
+                "url": "/artificer:armorer",
+                "file": "downloads/artificer_armorer.html"
+            },
+            "artillerist": {
+                "url": "/artificer:artillerist",
+                "file": "downloads/artificer_artillerist.html"
+            },
+            "battle-smith": {
+                "url": "/artificer:battle-smith",
+                "file": "downloads/artificer_battle_smith.html"
+            },
+            "forge-adept": {
+                "url": "/artificer:forge-adept",
+                "file": "downloads/artificer_forge_adept.html"
+            },
+            "mastermaker": {
+                "url": "/artificer:mastermaker",
+                "file": "downloads/artificer_mastermaker.html"
+            },
+            "maverick": {
+                "url": "/artificer:maverick",
+                "file": "downloads/artificer_maverick.html"
+            }
+        },
+        "bard": {
+            "creation": {
+                "url": "/bard:creation",
+                "file": "downloads/bard_creation.html"
+            },
+            "eloquence": {
+                "url": "/bard:eloquence",
+                "file": "downloads/bard_eloquence.html"
+            },
+            "glamour": {
+                "url": "/bard:glamour",
+                "file": "downloads/bard_glamour.html"
+            },
+            "lore": {
+                "url": "/bard:lore",
+                "file": "downloads/bard_lore.html"
+            },
+            "spirits": {
+                "url": "/bard:spirits",
+                "file": "downloads/bard_spirits.html"
+            },
+            "swords": {
+                "url": "/bard:swords",
+                "file": "downloads/bard_swords.html"
+            },
+            "valor": {
+                "url": "/bard:valor",
+                "file": "downloads/bard_valor.html"
+            },
+            "whispers": {
+                "url": "/bard:whispers",
+                "file": "downloads/bard_whispers.html"
+            },
+            "dirge-singer": {
+                "url": "/bard:dirge-singer",
+                "file": "downloads/bard_dirge_singer.html"
+            },
+            "maestro": {
+                "url": "/bard:maestro",
+                "file": "downloads/bard_maestro.html"
+            },
+            "tragedy": {
+                "url": "/bard:tragedy",
+                "file": "downloads/bard_tragedy.html"
+            }
+        }
+    }
+}

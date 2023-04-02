@@ -15,11 +15,14 @@ from formats import CLASSES_5E
 # include archived Unearthed Arcana
 INCLUDE_UA = False
 DL_OUTPUT_DIR = "downloads/"
+SPELL_DL_OUTPUT_DIR = "downloads/spells/"
 INDEX_OUTPUT_DIR = "data/"
-BASE_URL = "https://dnd5e.wikidot.com"
+BASE_URL = "http://dnd5e.wikidot.com"
+BASE_SPELLS_URL = "http://dnd5e.wikidot.com/spells"
 
 MAIN_FILENAME = "index.html"
 INDEX_FILENAME = "index.json"
+SPELL_INDEX_FILENAME = "spell_index.json"
 
 EXCLUDE_PAGES = [
     "/",
@@ -124,13 +127,89 @@ def download_pages(index, delay=2.0):
                 f.write(r.text)
             time.sleep(delay)
 
+def collect_spell_urls(download_index=False):
+    index_filename = os.path.join(SPELL_DL_OUTPUT_DIR, MAIN_FILENAME)
+
+    if download_index:
+        print(download_index)
+        print("downloading index")
+        r = requests.get(BASE_SPELLS_URL)
+        if not r.ok:
+            sys.exit()
+        with open(index_filename, 'x') as f:
+            f.write(r.text)
+    
+    main_file = open(index_filename)
+    soup = BeautifulSoup(main_file, 'html.parser')
+    print(soup.title)
+    data_paths: List[str] = []
+    for anchor in soup.find_all('a'):
+        href = anchor.get('href')
+        if not href:
+            continue
+        if href in EXCLUDE_PAGES:
+            continue
+        if not href.startswith("/"):
+            continue
+        if "spell:" not in href:
+            continue
+        data_paths.append(href.split("#",1).pop(0))
+    
+    with open(os.path.join(INDEX_OUTPUT_DIR, SPELL_INDEX_FILENAME), 'w') as f:
+        count = 0
+        index = {
+            "spells": {}
+        }
+        for path in data_paths:
+            print(path)
+            count += 1
+            spell_name = path.split(":").pop()
+            file_name = os.path.join(
+                SPELL_DL_OUTPUT_DIR, 
+                f"{path.lstrip('/').replace(':', '_').replace('-', '_')}.html",
+            )
+            print(f"indexing spell {spell_name}")
+            index["spells"][spell_name] = {
+                "url": path,
+                "file": file_name
+            }
+        print(f"indexed {count} spells")
+        f.write(json.dumps(index, indent=4))
+
+    main_file.close()
+
+    return index
+
+def download_spells(index, delay=2.0):
+    for spell in index["spells"]:
+        info = index["spells"][spell]
+        url = f"{BASE_URL}{info['url']}"
+        print(f"downloading spell: {spell}...", end="")
+        r = requests.get(url)
+        if not r.ok:
+            print(" FAIL")
+            continue
+        print(" OK")
+        with open(info["file"], "w+") as f:
+            f.write(r.text)
+        time.sleep(delay)
+
 def main():
-    if len(sys.argv) > 1 and sys.argv[1] == "--download":
-        index = collect_urls(download_index=True)
-        print("downloading...")
-        download_pages(index)
-    else:
+    if "subclasses" in sys.argv:
+        print("collecting urls...")
         index = collect_urls(download_index=False)
+        if "--download" in sys.argv:
+            print("downloading...")
+            download_pages(index)
+    elif "spells" in sys.argv:
+        print("collecting urls...")
+        index = collect_spell_urls(download_index=False)
+        if "--download" in sys.argv:
+            print("downloading...")
+            download_spells(index)
+    else:
+        print("need subclasses or spells")
+
 
 if __name__ == "__main__":
     main()

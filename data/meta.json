@@ -1,0 +1,2231 @@
+{
+  "name": "Subclasses (Extra)",
+  "description": "A random table created from the contents of the Subclasses (Extra) Folder.",
+  "results": [
+    {
+      "text": "Artificer: Alchemist",
+      "type": 1,
+      "img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "KOrZaWvRXaeNfQf3",
+      "_id": "pMhPP1RL5l1lkH22",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Armorer",
+      "type": 1,
+      "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "7jlSARQyo70BV2kE",
+      "_id": "8vUehtUZHRhds9tu",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Artillerist",
+      "type": 1,
+      "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "C4tHy3Ok00QmPAnZ",
+      "_id": "NMT8ky0OhEsfuYf3",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Battle Smith",
+      "type": 1,
+      "img": "icons/magic/control/modfiy-luck-fortune-gray.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "cBhOnW4d8EvMljMg",
+      "_id": "IQhyFpHyLYxOOLoG",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Forge Adept",
+      "type": 1,
+      "img": "icons/equipment/head/helm-norman-shrouded.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "RRCi7h9qihrnfkmv",
+      "_id": "4gVTFcbl4jmsmGAv",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Mastermaker",
+      "type": 1,
+      "img": "icons/equipment/hand/glove-cuffed-leather-grey.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "YDjfS6FxOUMUbupU",
+      "_id": "u0Fikump9RooAwPx",
+      "flags": {}
+    },
+    {
+      "text": "Artificer: Maverick",
+      "type": 1,
+      "img": "icons/containers/bags/pack-leather-strapped-tan.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "y9mBgUV46jDaYEQQ",
+      "_id": "wpgfqlohaXomxDpn",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Ancestral Guardian",
+      "type": 1,
+      "img": "icons/creatures/magical/spirit-undead-horned-blue.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "7gY9anOjWn7AaURN",
+      "_id": "dV5bIa4aVxbJY0EJ",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Battlerager",
+      "type": 1,
+      "img": "icons/skills/melee/shield-damaged-broken-blue.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "B0xJ6Ajh7h02EnLc",
+      "_id": "Wk9AVMDvw0mLXZiZ",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Beast",
+      "type": 1,
+      "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Hmgg7UNVXFiCRxHg",
+      "_id": "PCXTKaykz2G7wI2K",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Berserker",
+      "type": 1,
+      "img": "icons/skills/melee/strike-axe-blood-red.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "GIv0EjdQZwNsRtfb",
+      "_id": "ooOI2abpqkDymqtI",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Juggernaut",
+      "type": 1,
+      "img": "icons/equipment/shoulder/pauldron-segmented-steel-white.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "a9Tp60zDzkj4kont",
+      "_id": "s77f9emlQ9lRpdQQ",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Juggernaut Reborn",
+      "type": 1,
+      "img": "icons/creatures/abilities/mouth-teeth-human.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "JnCAkhsNSF6fzvSl",
+      "_id": "tHAB6Jak1ZraPkf5",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Path Of The Depths Pc",
+      "type": 1,
+      "img": "icons/magic/water/wave-water-explosion.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "TBeHJoQ6hjSymU3q",
+      "_id": "ZWIjxF3ZVf2iM4rG",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Storm Herald",
+      "type": 1,
+      "img": "icons/magic/lightning/bolt-forked-blue-yellow.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "90SEMXVZvO7nEHiH",
+      "_id": "5pKzF2Q29asOCFaV",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Totem Warrior",
+      "type": 1,
+      "img": "icons/commodities/treasure/wood-tiki.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ptRdsCqS238EJ9mK",
+      "_id": "Rich6XHGNJzKMW2C",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Wild Magic",
+      "type": 1,
+      "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "cQMgdhLiGBGmhkhh",
+      "_id": "yKY8bMc2new8JsPF",
+      "flags": {}
+    },
+    {
+      "text": "Barbarian: Zealot",
+      "type": 1,
+      "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "zIm7BKR2vI63UoBx",
+      "_id": "bMYPzK1wU1kbpM5H",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Creation",
+      "type": 1,
+      "img": "icons/magic/air/air-smoke-casting.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "NaagBkdYYwccjtCv",
+      "_id": "yvVYwbW0K5MdAttk",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Dirge Singer",
+      "type": 1,
+      "img": "icons/skills/social/intimidation-impressing.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "bERwqonZdicaG4EV",
+      "_id": "K2ngaCc36cwoccQL",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Eloquence",
+      "type": 1,
+      "img": "icons/skills/social/diplomacy-writing-letter.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "EVBm3Dx80FKRMJJN",
+      "_id": "BgIbMdcnV0ZRNubk",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Glamour",
+      "type": 1,
+      "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "i8u4MqwuudZxvgGl",
+      "_id": "bkjzpFAxEPBTjcLr",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Lore",
+      "type": 1,
+      "img": "icons/tools/scribal/ink-quill-pink.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "LxJKgwmkegwbskBp",
+      "_id": "qKVpvL7YqRoE0UHA",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Maestro",
+      "type": 1,
+      "img": "icons/tools/instruments/harp-lap-brown.webp",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "mnlDE6n5FBJMpnJv",
+      "_id": "nUXtOHxZIRHDOfWN",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Spirits",
+      "type": 1,
+      "img": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "f25g14ZDZnlmfV66",
+      "_id": "FV8n5KiMyKcvaTor",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Swords",
+      "type": 1,
+      "img": "icons/weapons/swords/sword-runed-glowing.webp",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "techivHiqNG4Fn3W",
+      "_id": "n4EuHbEguiWVge3j",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Tragedy",
+      "type": 1,
+      "img": "icons/commodities/bones/skull-hollow-brown.webp",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "rfgDU9EL9EtcOKW4",
+      "_id": "vg0Yg2pMZhH62iTv",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Valor",
+      "type": 1,
+      "img": "icons/environment/people/group.webp",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "IGQfjXUsIk6ZneiO",
+      "_id": "yXcKnxgA1ehgRhDq",
+      "flags": {}
+    },
+    {
+      "text": "Bard: Whispers",
+      "type": 1,
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "xVZUDOnuBNAKbexJ",
+      "_id": "2lv1gszNmdp1GV2C",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Ambition",
+      "type": 1,
+      "img": "icons/commodities/currency/coins-stitched-pouch-brown.webp",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "wYAmXmkxxbVG4Uie",
+      "_id": "UOM5dzTC3uWT7dUP",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Arcana",
+      "type": 1,
+      "img": "icons/tools/scribal/spectacles-glasses.webp",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "no7lv5MbyLjjKjoh",
+      "_id": "HuvosGBv7XoEi0Qg",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Blood",
+      "type": 1,
+      "img": "icons/magic/nature/plant-venus-flytrap-blood.webp",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "SSe9ANMOc6uXrnMW",
+      "_id": "kHyNyg0NTft8dI0L",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Blood Reborn",
+      "type": 1,
+      "img": "icons/magic/nature/thorns-hand-glow-green.webp",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "bqF9jzrpGARBIFO1",
+      "_id": "GlkP3AmGJtf7CaQt",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Death",
+      "type": 1,
+      "img": "icons/magic/unholy/hand-marked-pink.webp",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Lr0CHi6MtkhMMJwu",
+      "_id": "ZsERyC85WBn48C3P",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Forge",
+      "type": 1,
+      "img": "icons/skills/trades/construction-carpentry-hammer.webp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "imugsubA9Hh2AnHP",
+      "_id": "a1t2lS1IxwTgGhCk",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Grave",
+      "type": 1,
+      "img": "icons/magic/unholy/orb-stone-pink.webp",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "MppxDCRkSHkOcbpo",
+      "_id": "wSo5xy3w50MPC2Zn",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Knowledge",
+      "type": 1,
+      "img": "icons/skills/trades/academics-book-study-runes.webp",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "95yox3migld7Q89f",
+      "_id": "PrbVu6ahob0So1Iq",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Life",
+      "type": 1,
+      "img": "icons/magic/life/heart-area-circle-red-green.webp",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "4gRBn8K0l03dFuZI",
+      "_id": "LbM83UWcuxxOxpNr",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Light",
+      "type": 1,
+      "img": "icons/magic/light/orbs-firefly-hand-yellow.webp",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "U6JGebotYuPscpwE",
+      "_id": "SpBW1np1BCKkJA59",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Mind",
+      "type": 1,
+      "img": "icons/magic/control/mouth-smile-deception-purple.webp",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ljpa7gX1usfKqWXG",
+      "_id": "4BNZ9dvhtpErIkXq",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Moon",
+      "type": 1,
+      "img": "icons/magic/nature/moon-crescent.webp",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "xnsPeGDjyFwxiVJy",
+      "_id": "WNzuj9kRoGxP0az7",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Nature",
+      "type": 1,
+      "img": "icons/magic/nature/cornucopia-orange.webp",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "XcHlruuOpG6xbmiz",
+      "_id": "4nCaCjBqRy6r7yyI",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Order",
+      "type": 1,
+      "img": "icons/skills/social/trading-justice-scale-yellow.webp",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "qYAjoXofO6Szq9Bc",
+      "_id": "CH6kzPn1iCXEvtNn",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Peace",
+      "type": 1,
+      "img": "icons/skills/social/diplomacy-peace-alliance.webp",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "AOrnX75Q8KtpWeCL",
+      "_id": "D2gzLwomqLbZQuJH",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Solidarity",
+      "type": 1,
+      "img": "icons/skills/social/diplomacy-handshake.webp",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "LgVfG86lSSj1z3lZ",
+      "_id": "BJ8CWGy8BBtOW1Du",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Strength",
+      "type": 1,
+      "img": "icons/skills/melee/unarmed-punch-fist.webp",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "rbXi3q9woyGcbaTz",
+      "_id": "NijniXNtnu3KTHJW",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Tempest",
+      "type": 1,
+      "img": "icons/magic/lightning/bolt-strike-explosion-blue.webp",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "xwzcFbyENLEpVaef",
+      "_id": "8dixsI34zvfkfdVY",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Trickery",
+      "type": 1,
+      "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "3CHRow2BmCiL7xOe",
+      "_id": "DPcyBEeLTKpSxuH3",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Twilight",
+      "type": 1,
+      "img": "icons/magic/unholy/orb-rays-blue.webp",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "PgcJtHPEIxJ4Dw6J",
+      "_id": "LvfXWbLzMeq8lBS4",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: War",
+      "type": 1,
+      "img": "icons/environment/people/infantry-army.webp",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Egh1pJ09we9ZXwlx",
+      "_id": "9SumF0llqNRgcBrv",
+      "flags": {}
+    },
+    {
+      "text": "Cleric: Zeal",
+      "type": 1,
+      "img": "icons/magic/holy/saint-glass-portrait-halo.webp",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "JA9w6ULMii5sMeUR",
+      "_id": "Hbb0DvqWuz17uF5O",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Blighted",
+      "type": 1,
+      "img": "icons/magic/acid/dissolve-arm-flesh.webp",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "aqHWNWpQw1K7GSCv",
+      "_id": "EG04mkv38tlw3I3Z",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Dreams",
+      "type": 1,
+      "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "crfK83Gwl8EQHlgy",
+      "_id": "v9XeEqOSs61j8aDz",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Forged Hb",
+      "type": 1,
+      "img": "icons/commodities/tech/claw-mechanical.webp",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "uuDgJ6BhmbwZrrM3",
+      "_id": "qBunrCy2gfRXZX25",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Land",
+      "type": 1,
+      "img": "icons/magic/earth/explosion-lava-stone-yellow.webp",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "w9p7s70bVgR5RyZV",
+      "_id": "7OZJsDoxcJd8noxN",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Moon",
+      "type": 1,
+      "img": "icons/magic/nature/symbol-moon-stars-white.webp",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "oVk7bPOhLP4iz3Ap",
+      "_id": "9kn0P3bwpjwSdO8q",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Shepherd",
+      "type": 1,
+      "img": "icons/creatures/mammals/livestock-cow-green.webp",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "0e9Tj6G0htiFceTI",
+      "_id": "dohQ614L9i52Dtcr",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Spores",
+      "type": 1,
+      "img": "icons/consumables/mushrooms/umbontae-green.webp",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "igG80TlDupFBBNs9",
+      "_id": "nAjN8eD7amqh75rP",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Stars",
+      "type": 1,
+      "img": "icons/magic/light/projectile-stars-blue.webp",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "YVWOxXLV5EsMHVpO",
+      "_id": "Wv2VTLx0Z9G8uq9P",
+      "flags": {}
+    },
+    {
+      "text": "Druid: Wildfire",
+      "type": 1,
+      "img": "icons/magic/fire/flame-burning-tree-bush.webp",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "DrIvJAf6nDi2SFWz",
+      "_id": "AwUEPQzjjxQstdxg",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Arcane Archer",
+      "type": 1,
+      "img": "icons/weapons/bows/shortbow-recurve-yellow.webp",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "HumIPbfTP4fM1rpx",
+      "_id": "jym3CHT3LLA3KxnE",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Banneret",
+      "type": 1,
+      "img": "icons/sundries/flags/banner-standard-moon.webp",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "E01sWXXrv6dUuNPq",
+      "_id": "ddILnW3ZHTM6NncN",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Battle Master",
+      "type": 1,
+      "img": "icons/skills/melee/swords-triple-orange.webp",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "e4OMpO97TJmiZHxK",
+      "_id": "3BqOL8YTqnj83MPb",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Cavalier",
+      "type": 1,
+      "img": "icons/creatures/mammals/unicorn-horned-white.webp",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Haa0wZi219MzYTqD",
+      "_id": "MS36jU5NvKp2pV72",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Champion",
+      "type": 1,
+      "img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Z6ti9QWMvuNoPvFS",
+      "_id": "XZwbV99m12TsPl0X",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Echo Knight",
+      "type": 1,
+      "img": "icons/skills/melee/blade-tips-triple-steel.webp",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ylfG6KX2IAyMf8SY",
+      "_id": "vR8tMWYhcIatAwZS",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Eldritch Knight",
+      "type": 1,
+      "img": "icons/weapons/staves/staff-orante-gold.webp",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "bLdFesYHOsyMOyOK",
+      "_id": "6AbLU39VCKKbAFDq",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Gunslinger",
+      "type": 1,
+      "img": "icons/weapons/guns/gun-red.webp",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "GPCeTaejo9RViNm3",
+      "_id": "kthXGR690yEnSHYO",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Psi Warrior",
+      "type": 1,
+      "img": "icons/magic/perception/third-eye-blue-red.webp",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "b98T2JohJrKAFA4i",
+      "_id": "cmi3BnYIbTBmvBd2",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Renegade",
+      "type": 1,
+      "img": "icons/sundries/flags/banner-flag-pirate.webp",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "3xlU7rnaFoxFzKBk",
+      "_id": "TmAEcM6zNK48iWpS",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Rune Knight",
+      "type": 1,
+      "img": "icons/magic/symbols/runes-etched-steel-blade.webp",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "wWnx7aUYnbXHIo2J",
+      "_id": "MctEPH3XC0eaO3vl",
+      "flags": {}
+    },
+    {
+      "text": "Fighter: Samurai",
+      "type": 1,
+      "img": "icons/weapons/swords/sword-guard-serrated.webp",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "mFpyCNGDizZqsfaQ",
+      "_id": "yZsoHtO6LCP9Xbeg",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Ascendant Dragon",
+      "type": 1,
+      "img": "icons/creatures/abilities/wing-batlike-purple-blue.webp",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "2NEPZZaCl1ijQtjG",
+      "_id": "S65TALAZDuI5k8Fi",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Astral Self",
+      "type": 1,
+      "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "NqG5hm3dtuNPJn7e",
+      "_id": "KRJVgZvfPyNb54qi",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Cobalt Soul",
+      "type": 1,
+      "img": "icons/magic/water/orb-water-bubbles.webp",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "eUXnF3G6R0Ig5VIW",
+      "_id": "vmheGDh0wQYgn540",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Drunken Master",
+      "type": 1,
+      "img": "icons/consumables/drinks/wine-amphora-clay-red.webp",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "1igEb9nuF189FRe8",
+      "_id": "SILUsKEtYYyEsEMK",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Four Elements",
+      "type": 1,
+      "img": "icons/magic/air/wind-weather-snow-gusts.webp",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "EUJOFX59zGbvBFPD",
+      "_id": "ZpraiZ72FsB8y0If",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Kensei",
+      "type": 1,
+      "img": "icons/weapons/swords/sword-broad-crystal-paired.webp",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "LEQWBEFNeLoQvHET",
+      "_id": "gn9ayNLkhJ5Il70a",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Living Weapon",
+      "type": 1,
+      "img": "icons/weapons/fist/claws-engraved-grey.webp",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "URbUz9luExik20MA",
+      "_id": "PFav2Sife265hWD7",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Long Death",
+      "type": 1,
+      "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "mOE6q0zqVQvmO8kS",
+      "_id": "h7dmyMeZZJkPhOU1",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Mercy",
+      "type": 1,
+      "img": "icons/magic/holy/prayer-hands-glowing-yellow-white.webp",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "uoh6xEhsplSo2RoK",
+      "_id": "FmjLKpUM2UVM09Av",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Open Hand",
+      "type": 1,
+      "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "FBFgzkNPnXKd6izA",
+      "_id": "j2Z7B4BmISRi74oU",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Shadow",
+      "type": 1,
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "v8qU2Ij9kpw4SvJD",
+      "_id": "7AMzEPyzCzQXEqsn",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Soul Knife",
+      "type": 1,
+      "img": "icons/weapons/daggers/dagger-crooked-ice-blue.webp",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "KoEA57aONKOcGzQA",
+      "_id": "ap908bDu8lVYIL3r",
+      "flags": {}
+    },
+    {
+      "text": "Monk: Sun Soul",
+      "type": 1,
+      "img": "icons/magic/light/explosion-beam-impact-silhouette.webp",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ka2defBvqUw6dlo1",
+      "_id": "1710ttYkZlUuqRtn",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Ancients",
+      "type": 1,
+      "img": "icons/magic/nature/plant-undersea-orb-purple.webp",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "LZyCOrYbJcJt0zem",
+      "_id": "NmaLD5KKiwQKG1yM",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Conquest",
+      "type": 1,
+      "img": "icons/sundries/flags/banner-skull-red.webp",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "T1yO8np9xY2ApNaU",
+      "_id": "jrYyi0SaB56pax7b",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Crown",
+      "type": 1,
+      "img": "icons/commodities/treasure/crown-gold-satin-gems-red.webp",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "RNfQOzOgSuISIjOX",
+      "_id": "BjvJuA4pkfmeRO99",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Devotion",
+      "type": 1,
+      "img": "icons/magic/life/ankh-gold-blue.webp",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ZPyf7Qx2TFnRR7pK",
+      "_id": "PWYzjVqoQmhGAunA",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Glory",
+      "type": 1,
+      "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "CNuQF2CaPdVpRv2C",
+      "_id": "g9Q4Ntc3WkIKuMsY",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Oathbreaker",
+      "type": 1,
+      "img": "icons/skills/wounds/injury-body-pain-gray.webp",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Xwg9l42dNdhv4m66",
+      "_id": "ecS7ZQmLPsnKMnAm",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Open Sea",
+      "type": 1,
+      "img": "icons/environment/wilderness/island-palm-white.webp",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "XeCuZykjUQX4QI90",
+      "_id": "Z5WzJHOruptcJtt3",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Redemption",
+      "type": 1,
+      "img": "icons/sundries/lights/torch-brown-lit.webp",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "lWiH9BXDQQeROCqp",
+      "_id": "drRbyRVM71lAfIOL",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Vengeance",
+      "type": 1,
+      "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "m63f77ORM8WZ32To",
+      "_id": "wAzDYlPjlDTJp9cs",
+      "flags": {}
+    },
+    {
+      "text": "Paladin: Watchers",
+      "type": 1,
+      "img": "icons/magic/perception/eye-ringed-green.webp",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "9ScRAY1X7hFxzcmR",
+      "_id": "TaJCz1gOJiwnOGGI",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Beast Master",
+      "type": 1,
+      "img": "icons/creatures/abilities/paw-print-orange.webp",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "M1r0kOci72WNRh35",
+      "_id": "uAmQEMywjjqRk7nq",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Drakewarden",
+      "type": 1,
+      "img": "icons/creatures/abilities/wing-batlike-white-blue.webp",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Gz7P5hJfDYd9xocn",
+      "_id": "ltAT8BXQZnrE1SQn",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Fey Wanderer",
+      "type": 1,
+      "img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "xCmhm4F3dOtWasAg",
+      "_id": "kFTi2OM7vwWREuu2",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Gloom Stalker",
+      "type": 1,
+      "img": "icons/creatures/webs/web-sparse-pink.webp",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "noBJUtDyqcGcfAvP",
+      "_id": "yTeawoBQUxokan8C",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Horizon Walker",
+      "type": 1,
+      "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "SCYq2HbWJvxFXk5F",
+      "_id": "VR9ZTTJMwG2ZykHb",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Hunter",
+      "type": 1,
+      "img": "icons/skills/targeting/crosshair-scope-sniper-green.webp",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "VNtsi0Xl5s0tNHs0",
+      "_id": "6e3NOuhyWz4heQFy",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Monster Slayer",
+      "type": 1,
+      "img": "icons/creatures/mammals/humanoid-fox-cat-archer.webp",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "KwmD1nFgSYpm1STj",
+      "_id": "uWU0jhmIhi05CtVG",
+      "flags": {}
+    },
+    {
+      "text": "Ranger: Swarmkeeper",
+      "type": 1,
+      "img": "icons/creatures/invertebrates/wasp-swarm-attack.webp",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "dQ9zxCRPhqwscJY2",
+      "_id": "zHYvpIYk8VQrSP5w",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Arcane Trickster",
+      "type": 1,
+      "img": "icons/weapons/daggers/dagger-ritual-crooked-crystal.webp",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "bCjLk2inqA8uMM48",
+      "_id": "UhXlwbf6TukEopLd",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Assassin",
+      "type": 1,
+      "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "USzwvJ92HPcEprw6",
+      "_id": "4Bb43Jws8ZpbVbQ0",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Inquisitive",
+      "type": 1,
+      "img": "icons/commodities/materials/glass-orb-blue-gold.webp",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "kFqoHXpZYo3Cw0Kf",
+      "_id": "AsRW6KAmCFUZ5qMI",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Mastermind",
+      "type": 1,
+      "img": "icons/creatures/webs/web-spider-caught-hand-purple.webp",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "hDKmwlve0g4u0tkx",
+      "_id": "GTHsfxOqA3Rko3io",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Phantom",
+      "type": 1,
+      "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "SPRE17sE74bHBuem",
+      "_id": "5wO1F7vHbsCFtqNX",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Scout",
+      "type": 1,
+      "img": "icons/skills/movement/feet-winged-sandals-tan.webp",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "tClj5VKB7x16unKB",
+      "_id": "1E532OTckmhYSBle",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Soulknife",
+      "type": 1,
+      "img": "icons/weapons/daggers/dagger-magical-glowing-blue.webp",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "qkZVUu5ETyJbvl3M",
+      "_id": "k5IcdaE5Oee21Fkc",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Swashbuckler",
+      "type": 1,
+      "img": "icons/skills/melee/weapons-crossed-daggers-orange.webp",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "LnkNLD7P4sGDUq0i",
+      "_id": "BNqeFVJzcCSaIc0p",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Thief",
+      "type": 1,
+      "img": "icons/tools/navigation/map-marked-red.webp",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "CUwHATqWXMAk8qvw",
+      "_id": "jBNNB1SpsW9n2Cio",
+      "flags": {}
+    },
+    {
+      "text": "Rogue: Wild Card",
+      "type": 1,
+      "img": "icons/commodities/treasure/puzzle-cube.webp",
+      "weight": 1,
+      "range": [
+        113,
+        113
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "tl2gY5vCz1Hkl1v3",
+      "_id": "vMOfZjikYnO8oqIM",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Aberrant Mind",
+      "type": 1,
+      "img": "icons/magic/control/fear-fright-monster-grin-purple-blue.webp",
+      "weight": 1,
+      "range": [
+        114,
+        114
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Uo9NO2Qj656R5i4u",
+      "_id": "gZPInbC7oBkWkLza",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Clockwork Soul",
+      "type": 1,
+      "img": "icons/commodities/tech/detonator-timer.webp",
+      "weight": 1,
+      "range": [
+        115,
+        115
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "HuPBPGn0N58q1VAJ",
+      "_id": "r9pBOPXDg7xRdwfN",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Divine Soul",
+      "type": 1,
+      "img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+      "weight": 1,
+      "range": [
+        116,
+        116
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "0gVLPc2wGRDheOWW",
+      "_id": "mPZNFIDIf3OgaKNa",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Draconic Bloodline",
+      "type": 1,
+      "img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "RI52UkuONlX6CWLY",
+      "_id": "Zm4ioK3SaWm1cIWG",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Pyromancy",
+      "type": 1,
+      "img": "icons/magic/fire/flame-burning-hand-orange.webp",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "I3Say7SKHvDa5INC",
+      "_id": "Kwn1ZZtsbRZqwaRM",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Runechild",
+      "type": 1,
+      "img": "icons/magic/symbols/runes-triangle-blue.webp",
+      "weight": 1,
+      "range": [
+        119,
+        119
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "wd561cLz9NcVkHEK",
+      "_id": "BJM43Vw5IlUEmb9c",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Runechild Reborn",
+      "type": 1,
+      "img": "icons/magic/symbols/runes-triangle-orange-purple.webp",
+      "weight": 1,
+      "range": [
+        120,
+        120
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "8XPBw0q5gogIg5fo",
+      "_id": "aRjg93eJWFtM3NpQ",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Shadow Magic",
+      "type": 1,
+      "img": "icons/magic/death/hand-withered-gray.webp",
+      "weight": 1,
+      "range": [
+        121,
+        121
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ridbhI4RIgRctW35",
+      "_id": "dfLUchJe56jtxkq5",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Storm Sorcery",
+      "type": 1,
+      "img": "icons/magic/air/wind-swirl-gray-blue.webp",
+      "weight": 1,
+      "range": [
+        122,
+        122
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ZWbcTDK14QUPFg2A",
+      "_id": "5vN3X9JM4miTkXJ7",
+      "flags": {}
+    },
+    {
+      "text": "Sorcerer: Wild Magic",
+      "type": 1,
+      "img": "icons/magic/control/buff-flight-wings-blue.webp",
+      "weight": 1,
+      "range": [
+        123,
+        123
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "Vd7caTMBgrtcPouR",
+      "_id": "6T2Ljfdy4HMGIiVO",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Archfey",
+      "type": 1,
+      "img": "icons/magic/control/buff-luck-fortune-green.webp",
+      "weight": 1,
+      "range": [
+        124,
+        124
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "dJHC66AyW91KLyW5",
+      "_id": "yx801KkzFIVbfIZr",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Celestial",
+      "type": 1,
+      "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+      "weight": 1,
+      "range": [
+        125,
+        125
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "oZrXyToYMxQYMqu5",
+      "_id": "XMygMzKR703boTJ8",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Fathomless",
+      "type": 1,
+      "img": "icons/magic/water/bubbles-air-water-light.webp",
+      "weight": 1,
+      "range": [
+        126,
+        126
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "JGGc0IIIFubZMFvz",
+      "_id": "edKvj307N14BbWJi",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Fiend",
+      "type": 1,
+      "img": "icons/magic/fire/flame-burning-skull-orange.webp",
+      "weight": 1,
+      "range": [
+        127,
+        127
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "JNE0t9zRtajkU1XM",
+      "_id": "BkkwaN8iGs76ehKn",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Great Old One",
+      "type": 1,
+      "img": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
+      "weight": 1,
+      "range": [
+        128,
+        128
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "FF3nkNPD2XuxjYJs",
+      "_id": "mHCFQu1OFysWixiI",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Hexblade",
+      "type": 1,
+      "img": "icons/weapons/swords/sword-runed-glowing.webp",
+      "weight": 1,
+      "range": [
+        129,
+        129
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "wccARx59fFH0G44t",
+      "_id": "OFZqjb4mJ9o3Xsfc",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Kraken",
+      "type": 1,
+      "img": "icons/creatures/tentacles/tentacles-suctioncups-pink.webp",
+      "weight": 1,
+      "range": [
+        130,
+        130
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "bSxi2ufmrlXqlP52",
+      "_id": "5Qq5ujr0b88jSiPP",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: The Genie",
+      "type": 1,
+      "img": "icons/commodities/treasure/brass-lamp-yellow.webp",
+      "weight": 1,
+      "range": [
+        131,
+        131
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "CY7amrh8j9TA2e4A",
+      "_id": "eJCUj9slgsim15fz",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Undead",
+      "type": 1,
+      "img": "icons/magic/death/skull-energy-light-purple.webp",
+      "weight": 1,
+      "range": [
+        132,
+        132
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "DKKmfI79OOCfRYpL",
+      "_id": "cDmzPV7ecohUAvU1",
+      "flags": {}
+    },
+    {
+      "text": "Warlock: Undying",
+      "type": 1,
+      "img": "icons/magic/unholy/barrier-fire-pink.webp",
+      "weight": 1,
+      "range": [
+        133,
+        133
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "TfGYRUE7CSEURqcq",
+      "_id": "Nz0ljRdiR4mJsIqD",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Abjuration",
+      "type": 1,
+      "img": "icons/magic/defensive/shield-barrier-deflect-teal.webp",
+      "weight": 1,
+      "range": [
+        134,
+        134
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "FfRSF39WJaJCYeea",
+      "_id": "LnvvKvrOJuTyiyYM",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Bladesinging",
+      "type": 1,
+      "img": "icons/weapons/swords/sword-broad-serrated-blue.webp",
+      "weight": 1,
+      "range": [
+        135,
+        135
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "FgEWPzeQnnQ2c8a6",
+      "_id": "XpxExup6ZkcFiEFg",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Blood Magic",
+      "type": 1,
+      "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+      "weight": 1,
+      "range": [
+        136,
+        136
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "7xkJWKRbEN7W92O0",
+      "_id": "LC6xW7faogNYVJw0",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Chronurgy",
+      "type": 1,
+      "img": "icons/magic/time/clock-spinning-gold-pink.webp",
+      "weight": 1,
+      "range": [
+        137,
+        137
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "viIZYW7zaX0PixZt",
+      "_id": "bZ5xfm8afzOxG9qh",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Conjuration",
+      "type": 1,
+      "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
+      "weight": 1,
+      "range": [
+        138,
+        138
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "KQqeAvdgEpfvgQED",
+      "_id": "VZFk7jLMbfBAVCjC",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Divination",
+      "type": 1,
+      "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+      "weight": 1,
+      "range": [
+        139,
+        139
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "tXid0UfuB0fC3slA",
+      "_id": "LteaxLEj23BSwYl1",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Enchantment",
+      "type": 1,
+      "img": "icons/magic/defensive/barrier-shield-dome-deflect-teal.webp",
+      "weight": 1,
+      "range": [
+        140,
+        140
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "t9WJg1zj1pIdps1K",
+      "_id": "kydNXcxO9EGcNygV",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Evocation",
+      "type": 1,
+      "img": "icons/magic/fire/explosion-flame-blue.webp",
+      "weight": 1,
+      "range": [
+        141,
+        141
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "d5wEV3QwIADGUSFc",
+      "_id": "atxI3ZtYpTLR4rmE",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Graviturgy",
+      "type": 1,
+      "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+      "weight": 1,
+      "range": [
+        142,
+        142
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "JDAYNaO70RTDFSlt",
+      "_id": "yCCAkNM9tGMrV5dg",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Illusion",
+      "type": 1,
+      "img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+      "weight": 1,
+      "range": [
+        143,
+        143
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "ujVwrBq8OVXaNg1m",
+      "_id": "wH5soGmffyTdhuEv",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Necromancy",
+      "type": 1,
+      "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+      "weight": 1,
+      "range": [
+        144,
+        144
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "4MWji5sx58JHr1cR",
+      "_id": "paZLJROxjf0Ddd2n",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Order Of Scribes",
+      "type": 1,
+      "img": "icons/sundries/documents/document-sealed-white-orange.webp",
+      "weight": 1,
+      "range": [
+        145,
+        145
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "9jH0tTUxKcc2omqM",
+      "_id": "4Hz9tPZsHxksCzRZ",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: Transmutation",
+      "type": 1,
+      "img": "icons/magic/movement/abstract-ribbons-red-orange.webp",
+      "weight": 1,
+      "range": [
+        146,
+        146
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "StbsQmW38gGbG3LY",
+      "_id": "ygqMrxFJryWWhQ9E",
+      "flags": {}
+    },
+    {
+      "text": "Wizard: War Magic",
+      "type": 1,
+      "img": "icons/skills/melee/strike-weapon-polearm-ice-blue.webp",
+      "weight": 1,
+      "range": [
+        147,
+        147
+      ],
+      "drawn": false,
+      "documentCollection": "Item",
+      "documentId": "c7TcJydKCK7OO2f3",
+      "_id": "FFUoNit8RjU9AkMc",
+      "flags": {}
+    }
+  ],
+  "formula": "1d147",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "test",
+      "system": "dnd5e",
+      "coreVersion": "10.291",
+      "systemVersion": "2.1.5"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.5",
+    "coreVersion": "10.291",
+    "createdTime": 1679725421459,
+    "modifiedTime": 1679725421459,
+    "lastModifiedBy": "Ix4q7XHBcBJs27TX"
+  }
+}

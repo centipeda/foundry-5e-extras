@@ -1,0 +1,2296 @@
+{
+    "spells": {
+        "acid-splash": {
+            "url": "/spell:acid-splash",
+            "file": "downloads/spells/spell_acid_splash.html"
+        },
+        "blade-ward": {
+            "url": "/spell:blade-ward",
+            "file": "downloads/spells/spell_blade_ward.html"
+        },
+        "booming-blade": {
+            "url": "/spell:booming-blade",
+            "file": "downloads/spells/spell_booming_blade.html"
+        },
+        "chill-touch": {
+            "url": "/spell:chill-touch",
+            "file": "downloads/spells/spell_chill_touch.html"
+        },
+        "control-flames": {
+            "url": "/spell:control-flames",
+            "file": "downloads/spells/spell_control_flames.html"
+        },
+        "create-bonfire": {
+            "url": "/spell:create-bonfire",
+            "file": "downloads/spells/spell_create_bonfire.html"
+        },
+        "dancing-lights": {
+            "url": "/spell:dancing-lights",
+            "file": "downloads/spells/spell_dancing_lights.html"
+        },
+        "decompose": {
+            "url": "/spell:decompose",
+            "file": "downloads/spells/spell_decompose.html"
+        },
+        "druidcraft": {
+            "url": "/spell:druidcraft",
+            "file": "downloads/spells/spell_druidcraft.html"
+        },
+        "eldritch-blast": {
+            "url": "/spell:eldritch-blast",
+            "file": "downloads/spells/spell_eldritch_blast.html"
+        },
+        "encode-thoughts": {
+            "url": "/spell:encode-thoughts",
+            "file": "downloads/spells/spell_encode_thoughts.html"
+        },
+        "fire-bolt": {
+            "url": "/spell:fire-bolt",
+            "file": "downloads/spells/spell_fire_bolt.html"
+        },
+        "friends": {
+            "url": "/spell:friends",
+            "file": "downloads/spells/spell_friends.html"
+        },
+        "frostbite": {
+            "url": "/spell:frostbite",
+            "file": "downloads/spells/spell_frostbite.html"
+        },
+        "green-flame-blade": {
+            "url": "/spell:green-flame-blade",
+            "file": "downloads/spells/spell_green_flame_blade.html"
+        },
+        "guidance": {
+            "url": "/spell:guidance",
+            "file": "downloads/spells/spell_guidance.html"
+        },
+        "gust": {
+            "url": "/spell:gust",
+            "file": "downloads/spells/spell_gust.html"
+        },
+        "hand-of-radiance": {
+            "url": "/spell:hand-of-radiance",
+            "file": "downloads/spells/spell_hand_of_radiance.html"
+        },
+        "infestation": {
+            "url": "/spell:infestation",
+            "file": "downloads/spells/spell_infestation.html"
+        },
+        "light": {
+            "url": "/spell:light",
+            "file": "downloads/spells/spell_light.html"
+        },
+        "lightning-lure": {
+            "url": "/spell:lightning-lure",
+            "file": "downloads/spells/spell_lightning_lure.html"
+        },
+        "mage-hand": {
+            "url": "/spell:mage-hand",
+            "file": "downloads/spells/spell_mage_hand.html"
+        },
+        "magic-stone": {
+            "url": "/spell:magic-stone",
+            "file": "downloads/spells/spell_magic_stone.html"
+        },
+        "mending": {
+            "url": "/spell:mending",
+            "file": "downloads/spells/spell_mending.html"
+        },
+        "message": {
+            "url": "/spell:message",
+            "file": "downloads/spells/spell_message.html"
+        },
+        "mind-sliver": {
+            "url": "/spell:mind-sliver",
+            "file": "downloads/spells/spell_mind_sliver.html"
+        },
+        "minor-illusion": {
+            "url": "/spell:minor-illusion",
+            "file": "downloads/spells/spell_minor_illusion.html"
+        },
+        "mold-earth": {
+            "url": "/spell:mold-earth",
+            "file": "downloads/spells/spell_mold_earth.html"
+        },
+        "on-off": {
+            "url": "/spell:on-off",
+            "file": "downloads/spells/spell_on_off.html"
+        },
+        "poison-spray": {
+            "url": "/spell:poison-spray",
+            "file": "downloads/spells/spell_poison_spray.html"
+        },
+        "prestidigitation": {
+            "url": "/spell:prestidigitation",
+            "file": "downloads/spells/spell_prestidigitation.html"
+        },
+        "primal-savagery": {
+            "url": "/spell:primal-savagery",
+            "file": "downloads/spells/spell_primal_savagery.html"
+        },
+        "produce-flame": {
+            "url": "/spell:produce-flame",
+            "file": "downloads/spells/spell_produce_flame.html"
+        },
+        "ray-of-frost": {
+            "url": "/spell:ray-of-frost",
+            "file": "downloads/spells/spell_ray_of_frost.html"
+        },
+        "resistance": {
+            "url": "/spell:resistance",
+            "file": "downloads/spells/spell_resistance.html"
+        },
+        "sacred-flame": {
+            "url": "/spell:sacred-flame",
+            "file": "downloads/spells/spell_sacred_flame.html"
+        },
+        "sapping-sting": {
+            "url": "/spell:sapping-sting",
+            "file": "downloads/spells/spell_sapping_sting.html"
+        },
+        "shape-water": {
+            "url": "/spell:shape-water",
+            "file": "downloads/spells/spell_shape_water.html"
+        },
+        "shillelagh": {
+            "url": "/spell:shillelagh",
+            "file": "downloads/spells/spell_shillelagh.html"
+        },
+        "shocking-grasp": {
+            "url": "/spell:shocking-grasp",
+            "file": "downloads/spells/spell_shocking_grasp.html"
+        },
+        "spare-the-dying": {
+            "url": "/spell:spare-the-dying",
+            "file": "downloads/spells/spell_spare_the_dying.html"
+        },
+        "sword-burst": {
+            "url": "/spell:sword-burst",
+            "file": "downloads/spells/spell_sword_burst.html"
+        },
+        "thaumaturgy": {
+            "url": "/spell:thaumaturgy",
+            "file": "downloads/spells/spell_thaumaturgy.html"
+        },
+        "thorn-whip": {
+            "url": "/spell:thorn-whip",
+            "file": "downloads/spells/spell_thorn_whip.html"
+        },
+        "thunderclap": {
+            "url": "/spell:thunderclap",
+            "file": "downloads/spells/spell_thunderclap.html"
+        },
+        "toll-the-dead": {
+            "url": "/spell:toll-the-dead",
+            "file": "downloads/spells/spell_toll_the_dead.html"
+        },
+        "true-strike": {
+            "url": "/spell:true-strike",
+            "file": "downloads/spells/spell_true_strike.html"
+        },
+        "vicious-mockery": {
+            "url": "/spell:vicious-mockery",
+            "file": "downloads/spells/spell_vicious_mockery.html"
+        },
+        "virtue": {
+            "url": "/spell:virtue",
+            "file": "downloads/spells/spell_virtue.html"
+        },
+        "word-of-radiance": {
+            "url": "/spell:word-of-radiance",
+            "file": "downloads/spells/spell_word_of_radiance.html"
+        },
+        "absorb-elements": {
+            "url": "/spell:absorb-elements",
+            "file": "downloads/spells/spell_absorb_elements.html"
+        },
+        "acid-stream": {
+            "url": "/spell:acid-stream",
+            "file": "downloads/spells/spell_acid_stream.html"
+        },
+        "alarm": {
+            "url": "/spell:alarm",
+            "file": "downloads/spells/spell_alarm.html"
+        },
+        "animal-friendship": {
+            "url": "/spell:animal-friendship",
+            "file": "downloads/spells/spell_animal_friendship.html"
+        },
+        "arcane-weapon": {
+            "url": "/spell:arcane-weapon",
+            "file": "downloads/spells/spell_arcane_weapon.html"
+        },
+        "armor-of-agathys": {
+            "url": "/spell:armor-of-agathys",
+            "file": "downloads/spells/spell_armor_of_agathys.html"
+        },
+        "arms-of-hadar": {
+            "url": "/spell:arms-of-hadar",
+            "file": "downloads/spells/spell_arms_of_hadar.html"
+        },
+        "bane": {
+            "url": "/spell:bane",
+            "file": "downloads/spells/spell_bane.html"
+        },
+        "beast-bond": {
+            "url": "/spell:beast-bond",
+            "file": "downloads/spells/spell_beast_bond.html"
+        },
+        "bless": {
+            "url": "/spell:bless",
+            "file": "downloads/spells/spell_bless.html"
+        },
+        "burning-hands": {
+            "url": "/spell:burning-hands",
+            "file": "downloads/spells/spell_burning_hands.html"
+        },
+        "catapult": {
+            "url": "/spell:catapult",
+            "file": "downloads/spells/spell_catapult.html"
+        },
+        "cause-fear": {
+            "url": "/spell:cause-fear",
+            "file": "downloads/spells/spell_cause_fear.html"
+        },
+        "ceremony": {
+            "url": "/spell:ceremony",
+            "file": "downloads/spells/spell_ceremony.html"
+        },
+        "chaos-bolt": {
+            "url": "/spell:chaos-bolt",
+            "file": "downloads/spells/spell_chaos_bolt.html"
+        },
+        "charm-person": {
+            "url": "/spell:charm-person",
+            "file": "downloads/spells/spell_charm_person.html"
+        },
+        "chromatic-orb": {
+            "url": "/spell:chromatic-orb",
+            "file": "downloads/spells/spell_chromatic_orb.html"
+        },
+        "color-spray": {
+            "url": "/spell:color-spray",
+            "file": "downloads/spells/spell_color_spray.html"
+        },
+        "command": {
+            "url": "/spell:command",
+            "file": "downloads/spells/spell_command.html"
+        },
+        "compelled-duel": {
+            "url": "/spell:compelled-duel",
+            "file": "downloads/spells/spell_compelled_duel.html"
+        },
+        "comprehend-languages": {
+            "url": "/spell:comprehend-languages",
+            "file": "downloads/spells/spell_comprehend_languages.html"
+        },
+        "create-or-destroy-water": {
+            "url": "/spell:create-or-destroy-water",
+            "file": "downloads/spells/spell_create_or_destroy_water.html"
+        },
+        "cure-wounds": {
+            "url": "/spell:cure-wounds",
+            "file": "downloads/spells/spell_cure_wounds.html"
+        },
+        "detect-evil-and-good": {
+            "url": "/spell:detect-evil-and-good",
+            "file": "downloads/spells/spell_detect_evil_and_good.html"
+        },
+        "detect-magic": {
+            "url": "/spell:detect-magic",
+            "file": "downloads/spells/spell_detect_magic.html"
+        },
+        "detect-poison-and-disease": {
+            "url": "/spell:detect-poison-and-disease",
+            "file": "downloads/spells/spell_detect_poison_and_disease.html"
+        },
+        "disguise-self": {
+            "url": "/spell:disguise-self",
+            "file": "downloads/spells/spell_disguise_self.html"
+        },
+        "dissonant-whispers": {
+            "url": "/spell:dissonant-whispers",
+            "file": "downloads/spells/spell_dissonant_whispers.html"
+        },
+        "distort-value": {
+            "url": "/spell:distort-value",
+            "file": "downloads/spells/spell_distort_value.html"
+        },
+        "divine-favor": {
+            "url": "/spell:divine-favor",
+            "file": "downloads/spells/spell_divine_favor.html"
+        },
+        "earth-tremor": {
+            "url": "/spell:earth-tremor",
+            "file": "downloads/spells/spell_earth_tremor.html"
+        },
+        "ensnaring-strike": {
+            "url": "/spell:ensnaring-strike",
+            "file": "downloads/spells/spell_ensnaring_strike.html"
+        },
+        "entangle": {
+            "url": "/spell:entangle",
+            "file": "downloads/spells/spell_entangle.html"
+        },
+        "expeditious-retreat": {
+            "url": "/spell:expeditious-retreat",
+            "file": "downloads/spells/spell_expeditious_retreat.html"
+        },
+        "faerie-fire": {
+            "url": "/spell:faerie-fire",
+            "file": "downloads/spells/spell_faerie_fire.html"
+        },
+        "false-life": {
+            "url": "/spell:false-life",
+            "file": "downloads/spells/spell_false_life.html"
+        },
+        "feather-fall": {
+            "url": "/spell:feather-fall",
+            "file": "downloads/spells/spell_feather_fall.html"
+        },
+        "find-familiar": {
+            "url": "/spell:find-familiar",
+            "file": "downloads/spells/spell_find_familiar.html"
+        },
+        "fog-cloud": {
+            "url": "/spell:fog-cloud",
+            "file": "downloads/spells/spell_fog_cloud.html"
+        },
+        "frost-fingers": {
+            "url": "/spell:frost-fingers",
+            "file": "downloads/spells/spell_frost_fingers.html"
+        },
+        "gift-of-alacrity": {
+            "url": "/spell:gift-of-alacrity",
+            "file": "downloads/spells/spell_gift_of_alacrity.html"
+        },
+        "goodberry": {
+            "url": "/spell:goodberry",
+            "file": "downloads/spells/spell_goodberry.html"
+        },
+        "grease": {
+            "url": "/spell:grease",
+            "file": "downloads/spells/spell_grease.html"
+        },
+        "guiding-bolt": {
+            "url": "/spell:guiding-bolt",
+            "file": "downloads/spells/spell_guiding_bolt.html"
+        },
+        "guiding-hand-ua": {
+            "url": "/spell:guiding-hand-ua",
+            "file": "downloads/spells/spell_guiding_hand_ua.html"
+        },
+        "hail-of-thorns": {
+            "url": "/spell:hail-of-thorns",
+            "file": "downloads/spells/spell_hail_of_thorns.html"
+        },
+        "healing-word": {
+            "url": "/spell:healing-word",
+            "file": "downloads/spells/spell_healing_word.html"
+        },
+        "hellish-rebuke": {
+            "url": "/spell:hellish-rebuke",
+            "file": "downloads/spells/spell_hellish_rebuke.html"
+        },
+        "heroism": {
+            "url": "/spell:heroism",
+            "file": "downloads/spells/spell_heroism.html"
+        },
+        "hex": {
+            "url": "/spell:hex",
+            "file": "downloads/spells/spell_hex.html"
+        },
+        "hunters-mark": {
+            "url": "/spell:hunters-mark",
+            "file": "downloads/spells/spell_hunters_mark.html"
+        },
+        "ice-knife": {
+            "url": "/spell:ice-knife",
+            "file": "downloads/spells/spell_ice_knife.html"
+        },
+        "id-insinuation": {
+            "url": "/spell:id-insinuation",
+            "file": "downloads/spells/spell_id_insinuation.html"
+        },
+        "identify": {
+            "url": "/spell:identify",
+            "file": "downloads/spells/spell_identify.html"
+        },
+        "illusory-script": {
+            "url": "/spell:illusory-script",
+            "file": "downloads/spells/spell_illusory_script.html"
+        },
+        "infallible-relay": {
+            "url": "/spell:infallible-relay",
+            "file": "downloads/spells/spell_infallible_relay.html"
+        },
+        "inflict-wounds": {
+            "url": "/spell:inflict-wounds",
+            "file": "downloads/spells/spell_inflict_wounds.html"
+        },
+        "jims-magic-missile": {
+            "url": "/spell:jims-magic-missile",
+            "file": "downloads/spells/spell_jims_magic_missile.html"
+        },
+        "jump": {
+            "url": "/spell:jump",
+            "file": "downloads/spells/spell_jump.html"
+        },
+        "longstrider": {
+            "url": "/spell:longstrider",
+            "file": "downloads/spells/spell_longstrider.html"
+        },
+        "mage-armor": {
+            "url": "/spell:mage-armor",
+            "file": "downloads/spells/spell_mage_armor.html"
+        },
+        "magic-missile": {
+            "url": "/spell:magic-missile",
+            "file": "downloads/spells/spell_magic_missile.html"
+        },
+        "magnify-gravity": {
+            "url": "/spell:magnify-gravity",
+            "file": "downloads/spells/spell_magnify_gravity.html"
+        },
+        "protection-from-evil-and-good": {
+            "url": "/spell:protection-from-evil-and-good",
+            "file": "downloads/spells/spell_protection_from_evil_and_good.html"
+        },
+        "purify-food-and-drink": {
+            "url": "/spell:purify-food-and-drink",
+            "file": "downloads/spells/spell_purify_food_and_drink.html"
+        },
+        "ray-of-sickness": {
+            "url": "/spell:ray-of-sickness",
+            "file": "downloads/spells/spell_ray_of_sickness.html"
+        },
+        "remote-access": {
+            "url": "/spell:remote-access",
+            "file": "downloads/spells/spell_remote_access.html"
+        },
+        "sanctuary": {
+            "url": "/spell:sanctuary",
+            "file": "downloads/spells/spell_sanctuary.html"
+        },
+        "searing-smite": {
+            "url": "/spell:searing-smite",
+            "file": "downloads/spells/spell_searing_smite.html"
+        },
+        "sense-emotion": {
+            "url": "/spell:sense-emotion",
+            "file": "downloads/spells/spell_sense_emotion.html"
+        },
+        "shield": {
+            "url": "/spell:shield",
+            "file": "downloads/spells/spell_shield.html"
+        },
+        "shield-of-faith": {
+            "url": "/spell:shield-of-faith",
+            "file": "downloads/spells/spell_shield_of_faith.html"
+        },
+        "silent-image": {
+            "url": "/spell:silent-image",
+            "file": "downloads/spells/spell_silent_image.html"
+        },
+        "silvery-barbs": {
+            "url": "/spell:silvery-barbs",
+            "file": "downloads/spells/spell_silvery_barbs.html"
+        },
+        "sleep": {
+            "url": "/spell:sleep",
+            "file": "downloads/spells/spell_sleep.html"
+        },
+        "snare": {
+            "url": "/spell:snare",
+            "file": "downloads/spells/spell_snare.html"
+        },
+        "speak-with-animals": {
+            "url": "/spell:speak-with-animals",
+            "file": "downloads/spells/spell_speak_with_animals.html"
+        },
+        "sudden-awakening": {
+            "url": "/spell:sudden-awakening",
+            "file": "downloads/spells/spell_sudden_awakening.html"
+        },
+        "tashas-caustic-brew": {
+            "url": "/spell:tashas-caustic-brew",
+            "file": "downloads/spells/spell_tashas_caustic_brew.html"
+        },
+        "tashas-hideous-laughter": {
+            "url": "/spell:tashas-hideous-laughter",
+            "file": "downloads/spells/spell_tashas_hideous_laughter.html"
+        },
+        "tensers-floating-disk": {
+            "url": "/spell:tensers-floating-disk",
+            "file": "downloads/spells/spell_tensers_floating_disk.html"
+        },
+        "thunderous-smite": {
+            "url": "/spell:thunderous-smite",
+            "file": "downloads/spells/spell_thunderous_smite.html"
+        },
+        "thunderwave": {
+            "url": "/spell:thunderwave",
+            "file": "downloads/spells/spell_thunderwave.html"
+        },
+        "unearthly-chorus": {
+            "url": "/spell:unearthly-chorus",
+            "file": "downloads/spells/spell_unearthly_chorus.html"
+        },
+        "unseen-servant": {
+            "url": "/spell:unseen-servant",
+            "file": "downloads/spells/spell_unseen_servant.html"
+        },
+        "wild-cunning": {
+            "url": "/spell:wild-cunning",
+            "file": "downloads/spells/spell_wild_cunning.html"
+        },
+        "witch-bolt": {
+            "url": "/spell:witch-bolt",
+            "file": "downloads/spells/spell_witch_bolt.html"
+        },
+        "wrathful-smite": {
+            "url": "/spell:wrathful-smite",
+            "file": "downloads/spells/spell_wrathful_smite.html"
+        },
+        "zephyr-strike": {
+            "url": "/spell:zephyr-strike",
+            "file": "downloads/spells/spell_zephyr_strike.html"
+        },
+        "aganazzars-scorcher": {
+            "url": "/spell:aganazzars-scorcher",
+            "file": "downloads/spells/spell_aganazzars_scorcher.html"
+        },
+        "aid": {
+            "url": "/spell:aid",
+            "file": "downloads/spells/spell_aid.html"
+        },
+        "air-bubble": {
+            "url": "/spell:air-bubble",
+            "file": "downloads/spells/spell_air_bubble.html"
+        },
+        "alter-self": {
+            "url": "/spell:alter-self",
+            "file": "downloads/spells/spell_alter_self.html"
+        },
+        "animal-messenger": {
+            "url": "/spell:animal-messenger",
+            "file": "downloads/spells/spell_animal_messenger.html"
+        },
+        "arcane-hacking": {
+            "url": "/spell:arcane-hacking",
+            "file": "downloads/spells/spell_arcane_hacking.html"
+        },
+        "arcane-lock": {
+            "url": "/spell:arcane-lock",
+            "file": "downloads/spells/spell_arcane_lock.html"
+        },
+        "augury": {
+            "url": "/spell:augury",
+            "file": "downloads/spells/spell_augury.html"
+        },
+        "barkskin": {
+            "url": "/spell:barkskin",
+            "file": "downloads/spells/spell_barkskin.html"
+        },
+        "beast-sense": {
+            "url": "/spell:beast-sense",
+            "file": "downloads/spells/spell_beast_sense.html"
+        },
+        "blindness-deafness": {
+            "url": "/spell:blindness-deafness",
+            "file": "downloads/spells/spell_blindness_deafness.html"
+        },
+        "blur": {
+            "url": "/spell:blur",
+            "file": "downloads/spells/spell_blur.html"
+        },
+        "borrowed-knowledge": {
+            "url": "/spell:borrowed-knowledge",
+            "file": "downloads/spells/spell_borrowed_knowledge.html"
+        },
+        "branding-smite": {
+            "url": "/spell:branding-smite",
+            "file": "downloads/spells/spell_branding_smite.html"
+        },
+        "calm-emotions": {
+            "url": "/spell:calm-emotions",
+            "file": "downloads/spells/spell_calm_emotions.html"
+        },
+        "cloud-of-daggers": {
+            "url": "/spell:cloud-of-daggers",
+            "file": "downloads/spells/spell_cloud_of_daggers.html"
+        },
+        "continual-flame": {
+            "url": "/spell:continual-flame",
+            "file": "downloads/spells/spell_continual_flame.html"
+        },
+        "cordon-of-arrows": {
+            "url": "/spell:cordon-of-arrows",
+            "file": "downloads/spells/spell_cordon_of_arrows.html"
+        },
+        "crown-of-madness": {
+            "url": "/spell:crown-of-madness",
+            "file": "downloads/spells/spell_crown_of_madness.html"
+        },
+        "darkness": {
+            "url": "/spell:darkness",
+            "file": "downloads/spells/spell_darkness.html"
+        },
+        "darkvision": {
+            "url": "/spell:darkvision",
+            "file": "downloads/spells/spell_darkvision.html"
+        },
+        "detect-thoughts": {
+            "url": "/spell:detect-thoughts",
+            "file": "downloads/spells/spell_detect_thoughts.html"
+        },
+        "digital-phantom": {
+            "url": "/spell:digital-phantom",
+            "file": "downloads/spells/spell_digital_phantom.html"
+        },
+        "dragons-breath": {
+            "url": "/spell:dragons-breath",
+            "file": "downloads/spells/spell_dragons_breath.html"
+        },
+        "dust-devil": {
+            "url": "/spell:dust-devil",
+            "file": "downloads/spells/spell_dust_devil.html"
+        },
+        "earthbind": {
+            "url": "/spell:earthbind",
+            "file": "downloads/spells/spell_earthbind.html"
+        },
+        "enhance-ability": {
+            "url": "/spell:enhance-ability",
+            "file": "downloads/spells/spell_enhance_ability.html"
+        },
+        "enlarge-reduce": {
+            "url": "/spell:enlarge-reduce",
+            "file": "downloads/spells/spell_enlarge_reduce.html"
+        },
+        "enthrall": {
+            "url": "/spell:enthrall",
+            "file": "downloads/spells/spell_enthrall.html"
+        },
+        "find-steed": {
+            "url": "/spell:find-steed",
+            "file": "downloads/spells/spell_find_steed.html"
+        },
+        "find-traps": {
+            "url": "/spell:find-traps",
+            "file": "downloads/spells/spell_find_traps.html"
+        },
+        "find-vehicle": {
+            "url": "/spell:find-vehicle",
+            "file": "downloads/spells/spell_find_vehicle.html"
+        },
+        "flame-blade": {
+            "url": "/spell:flame-blade",
+            "file": "downloads/spells/spell_flame_blade.html"
+        },
+        "flaming-sphere": {
+            "url": "/spell:flaming-sphere",
+            "file": "downloads/spells/spell_flaming_sphere.html"
+        },
+        "flock-of-familiars": {
+            "url": "/spell:flock-of-familiars",
+            "file": "downloads/spells/spell_flock_of_familiars.html"
+        },
+        "fortunes-favor": {
+            "url": "/spell:fortunes-favor",
+            "file": "downloads/spells/spell_fortunes_favor.html"
+        },
+        "gentle-repose": {
+            "url": "/spell:gentle-repose",
+            "file": "downloads/spells/spell_gentle_repose.html"
+        },
+        "gift-of-gab": {
+            "url": "/spell:gift-of-gab",
+            "file": "downloads/spells/spell_gift_of_gab.html"
+        },
+        "gust-of-wind": {
+            "url": "/spell:gust-of-wind",
+            "file": "downloads/spells/spell_gust_of_wind.html"
+        },
+        "healing-spirit": {
+            "url": "/spell:healing-spirit",
+            "file": "downloads/spells/spell_healing_spirit.html"
+        },
+        "heat-metal": {
+            "url": "/spell:heat-metal",
+            "file": "downloads/spells/spell_heat_metal.html"
+        },
+        "hold-person": {
+            "url": "/spell:hold-person",
+            "file": "downloads/spells/spell_hold_person.html"
+        },
+        "icingdeath-s-frost": {
+            "url": "/spell:icingdeath-s-frost",
+            "file": "downloads/spells/spell_icingdeath_s_frost.html"
+        },
+        "immovable-object": {
+            "url": "/spell:immovable-object",
+            "file": "downloads/spells/spell_immovable_object.html"
+        },
+        "invisibility": {
+            "url": "/spell:invisibility",
+            "file": "downloads/spells/spell_invisibility.html"
+        },
+        "jims-glowing-coin": {
+            "url": "/spell:jims-glowing-coin",
+            "file": "downloads/spells/spell_jims_glowing_coin.html"
+        },
+        "kinetic-jaunt": {
+            "url": "/spell:kinetic-jaunt",
+            "file": "downloads/spells/spell_kinetic_jaunt.html"
+        },
+        "knock": {
+            "url": "/spell:knock",
+            "file": "downloads/spells/spell_knock.html"
+        },
+        "lesser-restoration": {
+            "url": "/spell:lesser-restoration",
+            "file": "downloads/spells/spell_lesser_restoration.html"
+        },
+        "levitate": {
+            "url": "/spell:levitate",
+            "file": "downloads/spells/spell_levitate.html"
+        },
+        "locate-animals-or-plants": {
+            "url": "/spell:locate-animals-or-plants",
+            "file": "downloads/spells/spell_locate_animals_or_plants.html"
+        },
+        "locate-object": {
+            "url": "/spell:locate-object",
+            "file": "downloads/spells/spell_locate_object.html"
+        },
+        "magic-mouth": {
+            "url": "/spell:magic-mouth",
+            "file": "downloads/spells/spell_magic_mouth.html"
+        },
+        "magic-weapon": {
+            "url": "/spell:magic-weapon",
+            "file": "downloads/spells/spell_magic_weapon.html"
+        },
+        "maximillians-earthen-grasp": {
+            "url": "/spell:maximillians-earthen-grasp",
+            "file": "downloads/spells/spell_maximillians_earthen_grasp.html"
+        },
+        "melfs-acid-arrow": {
+            "url": "/spell:melfs-acid-arrow",
+            "file": "downloads/spells/spell_melfs_acid_arrow.html"
+        },
+        "mental-barrier": {
+            "url": "/spell:mental-barrier",
+            "file": "downloads/spells/spell_mental_barrier.html"
+        },
+        "mind-spike": {
+            "url": "/spell:mind-spike",
+            "file": "downloads/spells/spell_mind_spike.html"
+        },
+        "mind-thrust": {
+            "url": "/spell:mind-thrust",
+            "file": "downloads/spells/spell_mind_thrust.html"
+        },
+        "mirror-image": {
+            "url": "/spell:mirror-image",
+            "file": "downloads/spells/spell_mirror_image.html"
+        },
+        "misty-step": {
+            "url": "/spell:misty-step",
+            "file": "downloads/spells/spell_misty_step.html"
+        },
+        "moonbeam": {
+            "url": "/spell:moonbeam",
+            "file": "downloads/spells/spell_moonbeam.html"
+        },
+        "nathairs-mischief": {
+            "url": "/spell:nathairs-mischief",
+            "file": "downloads/spells/spell_nathairs_mischief.html"
+        },
+        "nathairs-mischief-ua": {
+            "url": "/spell:nathairs-mischief-ua",
+            "file": "downloads/spells/spell_nathairs_mischief_ua.html"
+        },
+        "nystuls-magic-aura": {
+            "url": "/spell:nystuls-magic-aura",
+            "file": "downloads/spells/spell_nystuls_magic_aura.html"
+        },
+        "pass-without-trace": {
+            "url": "/spell:pass-without-trace",
+            "file": "downloads/spells/spell_pass_without_trace.html"
+        },
+        "phantasmal-force": {
+            "url": "/spell:phantasmal-force",
+            "file": "downloads/spells/spell_phantasmal_force.html"
+        },
+        "prayer-of-healing": {
+            "url": "/spell:prayer-of-healing",
+            "file": "downloads/spells/spell_prayer_of_healing.html"
+        },
+        "protection-from-poison": {
+            "url": "/spell:protection-from-poison",
+            "file": "downloads/spells/spell_protection_from_poison.html"
+        },
+        "pyrotechnics": {
+            "url": "/spell:pyrotechnics",
+            "file": "downloads/spells/spell_pyrotechnics.html"
+        },
+        "ray-of-enfeeblement": {
+            "url": "/spell:ray-of-enfeeblement",
+            "file": "downloads/spells/spell_ray_of_enfeeblement.html"
+        },
+        "rimes-binding-ice": {
+            "url": "/spell:rimes-binding-ice",
+            "file": "downloads/spells/spell_rimes_binding_ice.html"
+        },
+        "rope-trick": {
+            "url": "/spell:rope-trick",
+            "file": "downloads/spells/spell_rope_trick.html"
+        },
+        "scorching-ray": {
+            "url": "/spell:scorching-ray",
+            "file": "downloads/spells/spell_scorching_ray.html"
+        },
+        "see-invisibility": {
+            "url": "/spell:see-invisibility",
+            "file": "downloads/spells/spell_see_invisibility.html"
+        },
+        "shadow-blade": {
+            "url": "/spell:shadow-blade",
+            "file": "downloads/spells/spell_shadow_blade.html"
+        },
+        "shatter": {
+            "url": "/spell:shatter",
+            "file": "downloads/spells/spell_shatter.html"
+        },
+        "silence": {
+            "url": "/spell:silence",
+            "file": "downloads/spells/spell_silence.html"
+        },
+        "skywrite": {
+            "url": "/spell:skywrite",
+            "file": "downloads/spells/spell_skywrite.html"
+        },
+        "snillocs-snowball-storm": {
+            "url": "/spell:snillocs-snowball-storm",
+            "file": "downloads/spells/spell_snillocs_snowball_storm.html"
+        },
+        "spider-climb": {
+            "url": "/spell:spider-climb",
+            "file": "downloads/spells/spell_spider_climb.html"
+        },
+        "spike-growth": {
+            "url": "/spell:spike-growth",
+            "file": "downloads/spells/spell_spike_growth.html"
+        },
+        "spiritual-weapon": {
+            "url": "/spell:spiritual-weapon",
+            "file": "downloads/spells/spell_spiritual_weapon.html"
+        },
+        "spray-of-cards": {
+            "url": "/spell:spray-of-cards",
+            "file": "downloads/spells/spell_spray_of_cards.html"
+        },
+        "suggestion": {
+            "url": "/spell:suggestion",
+            "file": "downloads/spells/spell_suggestion.html"
+        },
+        "summon-beast": {
+            "url": "/spell:summon-beast",
+            "file": "downloads/spells/spell_summon_beast.html"
+        },
+        "tashas-mind-whip": {
+            "url": "/spell:tashas-mind-whip",
+            "file": "downloads/spells/spell_tashas_mind_whip.html"
+        },
+        "thought-shield": {
+            "url": "/spell:thought-shield",
+            "file": "downloads/spells/spell_thought_shield.html"
+        },
+        "vortex-warp": {
+            "url": "/spell:vortex-warp",
+            "file": "downloads/spells/spell_vortex_warp.html"
+        },
+        "warding-bond": {
+            "url": "/spell:warding-bond",
+            "file": "downloads/spells/spell_warding_bond.html"
+        },
+        "warding-wind": {
+            "url": "/spell:warding-wind",
+            "file": "downloads/spells/spell_warding_wind.html"
+        },
+        "web": {
+            "url": "/spell:web",
+            "file": "downloads/spells/spell_web.html"
+        },
+        "wither-and-bloom": {
+            "url": "/spell:wither-and-bloom",
+            "file": "downloads/spells/spell_wither_and_bloom.html"
+        },
+        "wristpocket": {
+            "url": "/spell:wristpocket",
+            "file": "downloads/spells/spell_wristpocket.html"
+        },
+        "zone-of-truth": {
+            "url": "/spell:zone-of-truth",
+            "file": "downloads/spells/spell_zone_of_truth.html"
+        },
+        "animate-dead": {
+            "url": "/spell:animate-dead",
+            "file": "downloads/spells/spell_animate_dead.html"
+        },
+        "antagonize-ua": {
+            "url": "/spell:antagonize-ua",
+            "file": "downloads/spells/spell_antagonize_ua.html"
+        },
+        "ashardalons-stride": {
+            "url": "/spell:ashardalons-stride",
+            "file": "downloads/spells/spell_ashardalons_stride.html"
+        },
+        "aura-of-vitality": {
+            "url": "/spell:aura-of-vitality",
+            "file": "downloads/spells/spell_aura_of_vitality.html"
+        },
+        "beacon-of-hope": {
+            "url": "/spell:beacon-of-hope",
+            "file": "downloads/spells/spell_beacon_of_hope.html"
+        },
+        "bestow-curse": {
+            "url": "/spell:bestow-curse",
+            "file": "downloads/spells/spell_bestow_curse.html"
+        },
+        "blinding-smite": {
+            "url": "/spell:blinding-smite",
+            "file": "downloads/spells/spell_blinding_smite.html"
+        },
+        "blink": {
+            "url": "/spell:blink",
+            "file": "downloads/spells/spell_blink.html"
+        },
+        "call-lightning": {
+            "url": "/spell:call-lightning",
+            "file": "downloads/spells/spell_call_lightning.html"
+        },
+        "catnap": {
+            "url": "/spell:catnap",
+            "file": "downloads/spells/spell_catnap.html"
+        },
+        "clairvoyance": {
+            "url": "/spell:clairvoyance",
+            "file": "downloads/spells/spell_clairvoyance.html"
+        },
+        "conjure-animals": {
+            "url": "/spell:conjure-animals",
+            "file": "downloads/spells/spell_conjure_animals.html"
+        },
+        "conjure-barrage": {
+            "url": "/spell:conjure-barrage",
+            "file": "downloads/spells/spell_conjure_barrage.html"
+        },
+        "conjure-lesser-demon": {
+            "url": "/spell:conjure-lesser-demon",
+            "file": "downloads/spells/spell_conjure_lesser_demon.html"
+        },
+        "counterspell": {
+            "url": "/spell:counterspell",
+            "file": "downloads/spells/spell_counterspell.html"
+        },
+        "create-food-and-water": {
+            "url": "/spell:create-food-and-water",
+            "file": "downloads/spells/spell_create_food_and_water.html"
+        },
+        "crusaders-mantle": {
+            "url": "/spell:crusaders-mantle",
+            "file": "downloads/spells/spell_crusaders_mantle.html"
+        },
+        "daylight": {
+            "url": "/spell:daylight",
+            "file": "downloads/spells/spell_daylight.html"
+        },
+        "dispel-magic": {
+            "url": "/spell:dispel-magic",
+            "file": "downloads/spells/spell_dispel_magic.html"
+        },
+        "elemental-weapon": {
+            "url": "/spell:elemental-weapon",
+            "file": "downloads/spells/spell_elemental_weapon.html"
+        },
+        "enemies-abound": {
+            "url": "/spell:enemies-abound",
+            "file": "downloads/spells/spell_enemies_abound.html"
+        },
+        "erupting-earth": {
+            "url": "/spell:erupting-earth",
+            "file": "downloads/spells/spell_erupting_earth.html"
+        },
+        "fast-friends": {
+            "url": "/spell:fast-friends",
+            "file": "downloads/spells/spell_fast_friends.html"
+        },
+        "fear": {
+            "url": "/spell:fear",
+            "file": "downloads/spells/spell_fear.html"
+        },
+        "feign-death": {
+            "url": "/spell:feign-death",
+            "file": "downloads/spells/spell_feign_death.html"
+        },
+        "fireball": {
+            "url": "/spell:fireball",
+            "file": "downloads/spells/spell_fireball.html"
+        },
+        "flame-arrows": {
+            "url": "/spell:flame-arrows",
+            "file": "downloads/spells/spell_flame_arrows.html"
+        },
+        "flame-stride": {
+            "url": "/spell:flame-stride",
+            "file": "downloads/spells/spell_flame_stride.html"
+        },
+        "fly": {
+            "url": "/spell:fly",
+            "file": "downloads/spells/spell_fly.html"
+        },
+        "freedom-of-the-waves": {
+            "url": "/spell:freedom-of-the-waves",
+            "file": "downloads/spells/spell_freedom_of_the_waves.html"
+        },
+        "galders-tower": {
+            "url": "/spell:galders-tower",
+            "file": "downloads/spells/spell_galders_tower.html"
+        },
+        "gaseous-form": {
+            "url": "/spell:gaseous-form",
+            "file": "downloads/spells/spell_gaseous_form.html"
+        },
+        "glyph-of-warding": {
+            "url": "/spell:glyph-of-warding",
+            "file": "downloads/spells/spell_glyph_of_warding.html"
+        },
+        "haste": {
+            "url": "/spell:haste",
+            "file": "downloads/spells/spell_haste.html"
+        },
+        "haywire": {
+            "url": "/spell:haywire",
+            "file": "downloads/spells/spell_haywire.html"
+        },
+        "house-of-cards-ua": {
+            "url": "/spell:house-of-cards-ua",
+            "file": "downloads/spells/spell_house_of_cards_ua.html"
+        },
+        "hunger-of-hadar": {
+            "url": "/spell:hunger-of-hadar",
+            "file": "downloads/spells/spell_hunger_of_hadar.html"
+        },
+        "hypnotic-pattern": {
+            "url": "/spell:hypnotic-pattern",
+            "file": "downloads/spells/spell_hypnotic_pattern.html"
+        },
+        "incite-greed": {
+            "url": "/spell:incite-greed",
+            "file": "downloads/spells/spell_incite_greed.html"
+        },
+        "intellect-fortress": {
+            "url": "/spell:intellect-fortress",
+            "file": "downloads/spells/spell_intellect_fortress.html"
+        },
+        "invisibility-to-cameras": {
+            "url": "/spell:invisibility-to-cameras",
+            "file": "downloads/spells/spell_invisibility_to_cameras.html"
+        },
+        "leomunds-tiny-hut": {
+            "url": "/spell:leomunds-tiny-hut",
+            "file": "downloads/spells/spell_leomunds_tiny_hut.html"
+        },
+        "life-transference": {
+            "url": "/spell:life-transference",
+            "file": "downloads/spells/spell_life_transference.html"
+        },
+        "lightning-arrow": {
+            "url": "/spell:lightning-arrow",
+            "file": "downloads/spells/spell_lightning_arrow.html"
+        },
+        "lightning-bolt": {
+            "url": "/spell:lightning-bolt",
+            "file": "downloads/spells/spell_lightning_bolt.html"
+        },
+        "magic-circle": {
+            "url": "/spell:magic-circle",
+            "file": "downloads/spells/spell_magic_circle.html"
+        },
+        "major-image": {
+            "url": "/spell:major-image",
+            "file": "downloads/spells/spell_major_image.html"
+        },
+        "mass-healing-word": {
+            "url": "/spell:mass-healing-word",
+            "file": "downloads/spells/spell_mass_healing_word.html"
+        },
+        "meld-into-stone": {
+            "url": "/spell:meld-into-stone",
+            "file": "downloads/spells/spell_meld_into_stone.html"
+        },
+        "melfs-minute-meteors": {
+            "url": "/spell:melfs-minute-meteors",
+            "file": "downloads/spells/spell_melfs_minute_meteors.html"
+        },
+        "motivational-speech": {
+            "url": "/spell:motivational-speech",
+            "file": "downloads/spells/spell_motivational_speech.html"
+        },
+        "nondetection": {
+            "url": "/spell:nondetection",
+            "file": "downloads/spells/spell_nondetection.html"
+        },
+        "phantom-steed": {
+            "url": "/spell:phantom-steed",
+            "file": "downloads/spells/spell_phantom_steed.html"
+        },
+        "plant-growth": {
+            "url": "/spell:plant-growth",
+            "file": "downloads/spells/spell_plant_growth.html"
+        },
+        "protection-from-ballistics": {
+            "url": "/spell:protection-from-ballistics",
+            "file": "downloads/spells/spell_protection_from_ballistics.html"
+        },
+        "protection-from-energy": {
+            "url": "/spell:protection-from-energy",
+            "file": "downloads/spells/spell_protection_from_energy.html"
+        },
+        "psionic-blast": {
+            "url": "/spell:psionic-blast",
+            "file": "downloads/spells/spell_psionic_blast.html"
+        },
+        "pulse-wave": {
+            "url": "/spell:pulse-wave",
+            "file": "downloads/spells/spell_pulse_wave.html"
+        },
+        "remove-curse": {
+            "url": "/spell:remove-curse",
+            "file": "downloads/spells/spell_remove_curse.html"
+        },
+        "revivify": {
+            "url": "/spell:revivify",
+            "file": "downloads/spells/spell_revivify.html"
+        },
+        "sending": {
+            "url": "/spell:sending",
+            "file": "downloads/spells/spell_sending.html"
+        },
+        "sleet-storm": {
+            "url": "/spell:sleet-storm",
+            "file": "downloads/spells/spell_sleet_storm.html"
+        },
+        "slow": {
+            "url": "/spell:slow",
+            "file": "downloads/spells/spell_slow.html"
+        },
+        "speak-with-dead": {
+            "url": "/spell:speak-with-dead",
+            "file": "downloads/spells/spell_speak_with_dead.html"
+        },
+        "speak-with-plants": {
+            "url": "/spell:speak-with-plants",
+            "file": "downloads/spells/spell_speak_with_plants.html"
+        },
+        "spirit-guardians": {
+            "url": "/spell:spirit-guardians",
+            "file": "downloads/spells/spell_spirit_guardians.html"
+        },
+        "spirit-shroud": {
+            "url": "/spell:spirit-shroud",
+            "file": "downloads/spells/spell_spirit_shroud.html"
+        },
+        "stinking-cloud": {
+            "url": "/spell:stinking-cloud",
+            "file": "downloads/spells/spell_stinking_cloud.html"
+        },
+        "summon-fey": {
+            "url": "/spell:summon-fey",
+            "file": "downloads/spells/spell_summon_fey.html"
+        },
+        "summon-lesser-demons": {
+            "url": "/spell:summon-lesser-demons",
+            "file": "downloads/spells/spell_summon_lesser_demons.html"
+        },
+        "summon-shadowspawn": {
+            "url": "/spell:summon-shadowspawn",
+            "file": "downloads/spells/spell_summon_shadowspawn.html"
+        },
+        "summon-undead": {
+            "url": "/spell:summon-undead",
+            "file": "downloads/spells/spell_summon_undead.html"
+        },
+        "summon-warrior-spirit": {
+            "url": "/spell:summon-warrior-spirit",
+            "file": "downloads/spells/spell_summon_warrior_spirit.html"
+        },
+        "thunder-step": {
+            "url": "/spell:thunder-step",
+            "file": "downloads/spells/spell_thunder_step.html"
+        },
+        "tidal-wave": {
+            "url": "/spell:tidal-wave",
+            "file": "downloads/spells/spell_tidal_wave.html"
+        },
+        "tiny-servant": {
+            "url": "/spell:tiny-servant",
+            "file": "downloads/spells/spell_tiny_servant.html"
+        },
+        "tongues": {
+            "url": "/spell:tongues",
+            "file": "downloads/spells/spell_tongues.html"
+        },
+        "vampiric-touch": {
+            "url": "/spell:vampiric-touch",
+            "file": "downloads/spells/spell_vampiric_touch.html"
+        },
+        "wall-of-sand": {
+            "url": "/spell:wall-of-sand",
+            "file": "downloads/spells/spell_wall_of_sand.html"
+        },
+        "wall-of-water": {
+            "url": "/spell:wall-of-water",
+            "file": "downloads/spells/spell_wall_of_water.html"
+        },
+        "water-breathing": {
+            "url": "/spell:water-breathing",
+            "file": "downloads/spells/spell_water_breathing.html"
+        },
+        "water-walk": {
+            "url": "/spell:water-walk",
+            "file": "downloads/spells/spell_water_walk.html"
+        },
+        "wind-wall": {
+            "url": "/spell:wind-wall",
+            "file": "downloads/spells/spell_wind_wall.html"
+        },
+        "arcane-eye": {
+            "url": "/spell:arcane-eye",
+            "file": "downloads/spells/spell_arcane_eye.html"
+        },
+        "aura-of-life": {
+            "url": "/spell:aura-of-life",
+            "file": "downloads/spells/spell_aura_of_life.html"
+        },
+        "aura-of-purity": {
+            "url": "/spell:aura-of-purity",
+            "file": "downloads/spells/spell_aura_of_purity.html"
+        },
+        "banishment": {
+            "url": "/spell:banishment",
+            "file": "downloads/spells/spell_banishment.html"
+        },
+        "blight": {
+            "url": "/spell:blight",
+            "file": "downloads/spells/spell_blight.html"
+        },
+        "charm-monster": {
+            "url": "/spell:charm-monster",
+            "file": "downloads/spells/spell_charm_monster.html"
+        },
+        "compulsion": {
+            "url": "/spell:compulsion",
+            "file": "downloads/spells/spell_compulsion.html"
+        },
+        "confusion": {
+            "url": "/spell:confusion",
+            "file": "downloads/spells/spell_confusion.html"
+        },
+        "conjure-barlgura": {
+            "url": "/spell:conjure-barlgura",
+            "file": "downloads/spells/spell_conjure_barlgura.html"
+        },
+        "conjure-knowbot": {
+            "url": "/spell:conjure-knowbot",
+            "file": "downloads/spells/spell_conjure_knowbot.html"
+        },
+        "conjure-minor-elementals": {
+            "url": "/spell:conjure-minor-elementals",
+            "file": "downloads/spells/spell_conjure_minor_elementals.html"
+        },
+        "conjure-shadow-demon": {
+            "url": "/spell:conjure-shadow-demon",
+            "file": "downloads/spells/spell_conjure_shadow_demon.html"
+        },
+        "conjure-woodland-beings": {
+            "url": "/spell:conjure-woodland-beings",
+            "file": "downloads/spells/spell_conjure_woodland_beings.html"
+        },
+        "control-water": {
+            "url": "/spell:control-water",
+            "file": "downloads/spells/spell_control_water.html"
+        },
+        "death-ward": {
+            "url": "/spell:death-ward",
+            "file": "downloads/spells/spell_death_ward.html"
+        },
+        "dimension-door": {
+            "url": "/spell:dimension-door",
+            "file": "downloads/spells/spell_dimension_door.html"
+        },
+        "divination": {
+            "url": "/spell:divination",
+            "file": "downloads/spells/spell_divination.html"
+        },
+        "dominate-beast": {
+            "url": "/spell:dominate-beast",
+            "file": "downloads/spells/spell_dominate_beast.html"
+        },
+        "ego-whip": {
+            "url": "/spell:ego-whip",
+            "file": "downloads/spells/spell_ego_whip.html"
+        },
+        "elemental-bane": {
+            "url": "/spell:elemental-bane",
+            "file": "downloads/spells/spell_elemental_bane.html"
+        },
+        "evards-black-tentacles": {
+            "url": "/spell:evards-black-tentacles",
+            "file": "downloads/spells/spell_evards_black_tentacles.html"
+        },
+        "fabricate": {
+            "url": "/spell:fabricate",
+            "file": "downloads/spells/spell_fabricate.html"
+        },
+        "find-greater-steed": {
+            "url": "/spell:find-greater-steed",
+            "file": "downloads/spells/spell_find_greater_steed.html"
+        },
+        "fire-shield": {
+            "url": "/spell:fire-shield",
+            "file": "downloads/spells/spell_fire_shield.html"
+        },
+        "freedom-of-movement": {
+            "url": "/spell:freedom-of-movement",
+            "file": "downloads/spells/spell_freedom_of_movement.html"
+        },
+        "galders-speedy-courier": {
+            "url": "/spell:galders-speedy-courier",
+            "file": "downloads/spells/spell_galders_speedy_courier.html"
+        },
+        "giant-insect": {
+            "url": "/spell:giant-insect",
+            "file": "downloads/spells/spell_giant_insect.html"
+        },
+        "grasping-vine": {
+            "url": "/spell:grasping-vine",
+            "file": "downloads/spells/spell_grasping_vine.html"
+        },
+        "gravity-sinkhole": {
+            "url": "/spell:gravity-sinkhole",
+            "file": "downloads/spells/spell_gravity_sinkhole.html"
+        },
+        "greater-invisibility": {
+            "url": "/spell:greater-invisibility",
+            "file": "downloads/spells/spell_greater_invisibility.html"
+        },
+        "guardian-of-faith": {
+            "url": "/spell:guardian-of-faith",
+            "file": "downloads/spells/spell_guardian_of_faith.html"
+        },
+        "guardian-of-nature": {
+            "url": "/spell:guardian-of-nature",
+            "file": "downloads/spells/spell_guardian_of_nature.html"
+        },
+        "hallucinatory-terrain": {
+            "url": "/spell:hallucinatory-terrain",
+            "file": "downloads/spells/spell_hallucinatory_terrain.html"
+        },
+        "ice-storm": {
+            "url": "/spell:ice-storm",
+            "file": "downloads/spells/spell_ice_storm.html"
+        },
+        "leomunds-secret-chest": {
+            "url": "/spell:leomunds-secret-chest",
+            "file": "downloads/spells/spell_leomunds_secret_chest.html"
+        },
+        "locate-creature": {
+            "url": "/spell:locate-creature",
+            "file": "downloads/spells/spell_locate_creature.html"
+        },
+        "mordenkainens-faithful-hound": {
+            "url": "/spell:mordenkainens-faithful-hound",
+            "file": "downloads/spells/spell_mordenkainens_faithful_hound.html"
+        },
+        "mordenkainens-private-sanctum": {
+            "url": "/spell:mordenkainens-private-sanctum",
+            "file": "downloads/spells/spell_mordenkainens_private_sanctum.html"
+        },
+        "otilukes-resilient-sphere": {
+            "url": "/spell:otilukes-resilient-sphere",
+            "file": "downloads/spells/spell_otilukes_resilient_sphere.html"
+        },
+        "phantasmal-killer": {
+            "url": "/spell:phantasmal-killer",
+            "file": "downloads/spells/spell_phantasmal_killer.html"
+        },
+        "polymorph": {
+            "url": "/spell:polymorph",
+            "file": "downloads/spells/spell_polymorph.html"
+        },
+        "raulothims-psychic-lance": {
+            "url": "/spell:raulothims-psychic-lance",
+            "file": "downloads/spells/spell_raulothims_psychic_lance.html"
+        },
+        "raulothims-psychic-lance-ua": {
+            "url": "/spell:raulothims-psychic-lance-ua",
+            "file": "downloads/spells/spell_raulothims_psychic_lance_ua.html"
+        },
+        "shadow-of-moil": {
+            "url": "/spell:shadow-of-moil",
+            "file": "downloads/spells/spell_shadow_of_moil.html"
+        },
+        "sickening-radiance": {
+            "url": "/spell:sickening-radiance",
+            "file": "downloads/spells/spell_sickening_radiance.html"
+        },
+        "spirit-of-death": {
+            "url": "/spell:spirit-of-death",
+            "file": "downloads/spells/spell_spirit_of_death.html"
+        },
+        "staggering-smite": {
+            "url": "/spell:staggering-smite",
+            "file": "downloads/spells/spell_staggering_smite.html"
+        },
+        "stone-shape": {
+            "url": "/spell:stone-shape",
+            "file": "downloads/spells/spell_stone_shape.html"
+        },
+        "stoneskin": {
+            "url": "/spell:stoneskin",
+            "file": "downloads/spells/spell_stoneskin.html"
+        },
+        "storm-sphere": {
+            "url": "/spell:storm-sphere",
+            "file": "downloads/spells/spell_storm_sphere.html"
+        },
+        "summon-aberration": {
+            "url": "/spell:summon-aberration",
+            "file": "downloads/spells/spell_summon_aberration.html"
+        },
+        "summon-construct": {
+            "url": "/spell:summon-construct",
+            "file": "downloads/spells/spell_summon_construct.html"
+        },
+        "summon-elemental": {
+            "url": "/spell:summon-elemental",
+            "file": "downloads/spells/spell_summon_elemental.html"
+        },
+        "summon-greater-demon": {
+            "url": "/spell:summon-greater-demon",
+            "file": "downloads/spells/spell_summon_greater_demon.html"
+        },
+        "synchronicity": {
+            "url": "/spell:synchronicity",
+            "file": "downloads/spells/spell_synchronicity.html"
+        },
+        "system-backdoor": {
+            "url": "/spell:system-backdoor",
+            "file": "downloads/spells/spell_system_backdoor.html"
+        },
+        "vitriolic-sphere": {
+            "url": "/spell:vitriolic-sphere",
+            "file": "downloads/spells/spell_vitriolic_sphere.html"
+        },
+        "wall-of-fire": {
+            "url": "/spell:wall-of-fire",
+            "file": "downloads/spells/spell_wall_of_fire.html"
+        },
+        "watery-sphere": {
+            "url": "/spell:watery-sphere",
+            "file": "downloads/spells/spell_watery_sphere.html"
+        },
+        "widogast-s-vault-of-amber-hb": {
+            "url": "/spell:widogast-s-vault-of-amber-hb",
+            "file": "downloads/spells/spell_widogast_s_vault_of_amber_hb.html"
+        },
+        "widogast-s-web-of-fire-hb": {
+            "url": "/spell:widogast-s-web-of-fire-hb",
+            "file": "downloads/spells/spell_widogast_s_web_of_fire_hb.html"
+        },
+        "animate-objects": {
+            "url": "/spell:animate-objects",
+            "file": "downloads/spells/spell_animate_objects.html"
+        },
+        "antilife-shell": {
+            "url": "/spell:antilife-shell",
+            "file": "downloads/spells/spell_antilife_shell.html"
+        },
+        "awaken": {
+            "url": "/spell:awaken",
+            "file": "downloads/spells/spell_awaken.html"
+        },
+        "banishing-smite": {
+            "url": "/spell:banishing-smite",
+            "file": "downloads/spells/spell_banishing_smite.html"
+        },
+        "bigbys-hand": {
+            "url": "/spell:bigbys-hand",
+            "file": "downloads/spells/spell_bigbys_hand.html"
+        },
+        "circle-of-power": {
+            "url": "/spell:circle-of-power",
+            "file": "downloads/spells/spell_circle_of_power.html"
+        },
+        "cloudkill": {
+            "url": "/spell:cloudkill",
+            "file": "downloads/spells/spell_cloudkill.html"
+        },
+        "commune": {
+            "url": "/spell:commune",
+            "file": "downloads/spells/spell_commune.html"
+        },
+        "commune-with-city": {
+            "url": "/spell:commune-with-city",
+            "file": "downloads/spells/spell_commune_with_city.html"
+        },
+        "commune-with-nature": {
+            "url": "/spell:commune-with-nature",
+            "file": "downloads/spells/spell_commune_with_nature.html"
+        },
+        "cone-of-cold": {
+            "url": "/spell:cone-of-cold",
+            "file": "downloads/spells/spell_cone_of_cold.html"
+        },
+        "conjure-elemental": {
+            "url": "/spell:conjure-elemental",
+            "file": "downloads/spells/spell_conjure_elemental.html"
+        },
+        "conjure-volley": {
+            "url": "/spell:conjure-volley",
+            "file": "downloads/spells/spell_conjure_volley.html"
+        },
+        "conjure-vrock": {
+            "url": "/spell:conjure-vrock",
+            "file": "downloads/spells/spell_conjure_vrock.html"
+        },
+        "contact-other-plane": {
+            "url": "/spell:contact-other-plane",
+            "file": "downloads/spells/spell_contact_other_plane.html"
+        },
+        "contagion": {
+            "url": "/spell:contagion",
+            "file": "downloads/spells/spell_contagion.html"
+        },
+        "control-winds": {
+            "url": "/spell:control-winds",
+            "file": "downloads/spells/spell_control_winds.html"
+        },
+        "create-spelljamming-helm": {
+            "url": "/spell:create-spelljamming-helm",
+            "file": "downloads/spells/spell_create_spelljamming_helm.html"
+        },
+        "creation": {
+            "url": "/spell:creation",
+            "file": "downloads/spells/spell_creation.html"
+        },
+        "danse-macabre": {
+            "url": "/spell:danse-macabre",
+            "file": "downloads/spells/spell_danse_macabre.html"
+        },
+        "dawn": {
+            "url": "/spell:dawn",
+            "file": "downloads/spells/spell_dawn.html"
+        },
+        "destructive-wave": {
+            "url": "/spell:destructive-wave",
+            "file": "downloads/spells/spell_destructive_wave.html"
+        },
+        "dispel-evil-and-good": {
+            "url": "/spell:dispel-evil-and-good",
+            "file": "downloads/spells/spell_dispel_evil_and_good.html"
+        },
+        "dominate-person": {
+            "url": "/spell:dominate-person",
+            "file": "downloads/spells/spell_dominate_person.html"
+        },
+        "dream": {
+            "url": "/spell:dream",
+            "file": "downloads/spells/spell_dream.html"
+        },
+        "enervation": {
+            "url": "/spell:enervation",
+            "file": "downloads/spells/spell_enervation.html"
+        },
+        "far-step": {
+            "url": "/spell:far-step",
+            "file": "downloads/spells/spell_far_step.html"
+        },
+        "flame-strike": {
+            "url": "/spell:flame-strike",
+            "file": "downloads/spells/spell_flame_strike.html"
+        },
+        "freedom-of-the-winds": {
+            "url": "/spell:freedom-of-the-winds",
+            "file": "downloads/spells/spell_freedom_of_the_winds.html"
+        },
+        "geas": {
+            "url": "/spell:geas",
+            "file": "downloads/spells/spell_geas.html"
+        },
+        "greater-restoration": {
+            "url": "/spell:greater-restoration",
+            "file": "downloads/spells/spell_greater_restoration.html"
+        },
+        "hallow": {
+            "url": "/spell:hallow",
+            "file": "downloads/spells/spell_hallow.html"
+        },
+        "hold-monster": {
+            "url": "/spell:hold-monster",
+            "file": "downloads/spells/spell_hold_monster.html"
+        },
+        "holy-weapon": {
+            "url": "/spell:holy-weapon",
+            "file": "downloads/spells/spell_holy_weapon.html"
+        },
+        "immolation": {
+            "url": "/spell:immolation",
+            "file": "downloads/spells/spell_immolation.html"
+        },
+        "infernal-calling": {
+            "url": "/spell:infernal-calling",
+            "file": "downloads/spells/spell_infernal_calling.html"
+        },
+        "insect-plague": {
+            "url": "/spell:insect-plague",
+            "file": "downloads/spells/spell_insect_plague.html"
+        },
+        "legend-lore": {
+            "url": "/spell:legend-lore",
+            "file": "downloads/spells/spell_legend_lore.html"
+        },
+        "maelstrom": {
+            "url": "/spell:maelstrom",
+            "file": "downloads/spells/spell_maelstrom.html"
+        },
+        "mass-cure-wounds": {
+            "url": "/spell:mass-cure-wounds",
+            "file": "downloads/spells/spell_mass_cure_wounds.html"
+        },
+        "mislead": {
+            "url": "/spell:mislead",
+            "file": "downloads/spells/spell_mislead.html"
+        },
+        "modify-memory": {
+            "url": "/spell:modify-memory",
+            "file": "downloads/spells/spell_modify_memory.html"
+        },
+        "negative-energy-flood": {
+            "url": "/spell:negative-energy-flood",
+            "file": "downloads/spells/spell_negative_energy_flood.html"
+        },
+        "passwall": {
+            "url": "/spell:passwall",
+            "file": "downloads/spells/spell_passwall.html"
+        },
+        "planar-binding": {
+            "url": "/spell:planar-binding",
+            "file": "downloads/spells/spell_planar_binding.html"
+        },
+        "raise-dead": {
+            "url": "/spell:raise-dead",
+            "file": "downloads/spells/spell_raise_dead.html"
+        },
+        "rarys-telepathic-bond": {
+            "url": "/spell:rarys-telepathic-bond",
+            "file": "downloads/spells/spell_rarys_telepathic_bond.html"
+        },
+        "reincarnate": {
+            "url": "/spell:reincarnate",
+            "file": "downloads/spells/spell_reincarnate.html"
+        },
+        "scrying": {
+            "url": "/spell:scrying",
+            "file": "downloads/spells/spell_scrying.html"
+        },
+        "seeming": {
+            "url": "/spell:seeming",
+            "file": "downloads/spells/spell_seeming.html"
+        },
+        "shutdown": {
+            "url": "/spell:shutdown",
+            "file": "downloads/spells/spell_shutdown.html"
+        },
+        "skill-empowerment": {
+            "url": "/spell:skill-empowerment",
+            "file": "downloads/spells/spell_skill_empowerment.html"
+        },
+        "steel-wind-strike": {
+            "url": "/spell:steel-wind-strike",
+            "file": "downloads/spells/spell_steel_wind_strike.html"
+        },
+        "summon-celestial": {
+            "url": "/spell:summon-celestial",
+            "file": "downloads/spells/spell_summon_celestial.html"
+        },
+        "summon-draconic-spirit": {
+            "url": "/spell:summon-draconic-spirit",
+            "file": "downloads/spells/spell_summon_draconic_spirit.html"
+        },
+        "summon-draconic-spirit-ua": {
+            "url": "/spell:summon-draconic-spirit-ua",
+            "file": "downloads/spells/spell_summon_draconic_spirit_ua.html"
+        },
+        "swift-quiver": {
+            "url": "/spell:swift-quiver",
+            "file": "downloads/spells/spell_swift_quiver.html"
+        },
+        "synaptic-static": {
+            "url": "/spell:synaptic-static",
+            "file": "downloads/spells/spell_synaptic_static.html"
+        },
+        "telekinesis": {
+            "url": "/spell:telekinesis",
+            "file": "downloads/spells/spell_telekinesis.html"
+        },
+        "teleportation-circle": {
+            "url": "/spell:teleportation-circle",
+            "file": "downloads/spells/spell_teleportation_circle.html"
+        },
+        "temporal-shunt": {
+            "url": "/spell:temporal-shunt",
+            "file": "downloads/spells/spell_temporal_shunt.html"
+        },
+        "transmute-rock": {
+            "url": "/spell:transmute-rock",
+            "file": "downloads/spells/spell_transmute_rock.html"
+        },
+        "tree-stride": {
+            "url": "/spell:tree-stride",
+            "file": "downloads/spells/spell_tree_stride.html"
+        },
+        "wall-of-force": {
+            "url": "/spell:wall-of-force",
+            "file": "downloads/spells/spell_wall_of_force.html"
+        },
+        "wall-of-light": {
+            "url": "/spell:wall-of-light",
+            "file": "downloads/spells/spell_wall_of_light.html"
+        },
+        "wall-of-stone": {
+            "url": "/spell:wall-of-stone",
+            "file": "downloads/spells/spell_wall_of_stone.html"
+        },
+        "wrath-of-nature": {
+            "url": "/spell:wrath-of-nature",
+            "file": "downloads/spells/spell_wrath_of_nature.html"
+        },
+        "arcane-gate": {
+            "url": "/spell:arcane-gate",
+            "file": "downloads/spells/spell_arcane_gate.html"
+        },
+        "blade-barrier": {
+            "url": "/spell:blade-barrier",
+            "file": "downloads/spells/spell_blade_barrier.html"
+        },
+        "bones-of-the-earth": {
+            "url": "/spell:bones-of-the-earth",
+            "file": "downloads/spells/spell_bones_of_the_earth.html"
+        },
+        "chain-lightning": {
+            "url": "/spell:chain-lightning",
+            "file": "downloads/spells/spell_chain_lightning.html"
+        },
+        "circle-of-death": {
+            "url": "/spell:circle-of-death",
+            "file": "downloads/spells/spell_circle_of_death.html"
+        },
+        "conjure-fey": {
+            "url": "/spell:conjure-fey",
+            "file": "downloads/spells/spell_conjure_fey.html"
+        },
+        "contingency": {
+            "url": "/spell:contingency",
+            "file": "downloads/spells/spell_contingency.html"
+        },
+        "create-homunculus": {
+            "url": "/spell:create-homunculus",
+            "file": "downloads/spells/spell_create_homunculus.html"
+        },
+        "create-undead": {
+            "url": "/spell:create-undead",
+            "file": "downloads/spells/spell_create_undead.html"
+        },
+        "disintegrate": {
+            "url": "/spell:disintegrate",
+            "file": "downloads/spells/spell_disintegrate.html"
+        },
+        "drawmijs-instant-summons": {
+            "url": "/spell:drawmijs-instant-summons",
+            "file": "downloads/spells/spell_drawmijs_instant_summons.html"
+        },
+        "druid-grove": {
+            "url": "/spell:druid-grove",
+            "file": "downloads/spells/spell_druid_grove.html"
+        },
+        "eyebite": {
+            "url": "/spell:eyebite",
+            "file": "downloads/spells/spell_eyebite.html"
+        },
+        "find-the-path": {
+            "url": "/spell:find-the-path",
+            "file": "downloads/spells/spell_find_the_path.html"
+        },
+        "fizbans-platinum-shield": {
+            "url": "/spell:fizbans-platinum-shield",
+            "file": "downloads/spells/spell_fizbans_platinum_shield.html"
+        },
+        "fizban-s-platinum-shield-ua": {
+            "url": "/spell:fizban-s-platinum-shield-ua",
+            "file": "downloads/spells/spell_fizban_s_platinum_shield_ua.html"
+        },
+        "flesh-to-stone": {
+            "url": "/spell:flesh-to-stone",
+            "file": "downloads/spells/spell_flesh_to_stone.html"
+        },
+        "forbiddance": {
+            "url": "/spell:forbiddance",
+            "file": "downloads/spells/spell_forbiddance.html"
+        },
+        "globe-of-invulnerability": {
+            "url": "/spell:globe-of-invulnerability",
+            "file": "downloads/spells/spell_globe_of_invulnerability.html"
+        },
+        "gravity-fissure": {
+            "url": "/spell:gravity-fissure",
+            "file": "downloads/spells/spell_gravity_fissure.html"
+        },
+        "guards-and-wards": {
+            "url": "/spell:guards-and-wards",
+            "file": "downloads/spells/spell_guards_and_wards.html"
+        },
+        "harm": {
+            "url": "/spell:harm",
+            "file": "downloads/spells/spell_harm.html"
+        },
+        "heal": {
+            "url": "/spell:heal",
+            "file": "downloads/spells/spell_heal.html"
+        },
+        "heroes-feast": {
+            "url": "/spell:heroes-feast",
+            "file": "downloads/spells/spell_heroes_feast.html"
+        },
+        "investiture-of-flame": {
+            "url": "/spell:investiture-of-flame",
+            "file": "downloads/spells/spell_investiture_of_flame.html"
+        },
+        "investiture-of-ice": {
+            "url": "/spell:investiture-of-ice",
+            "file": "downloads/spells/spell_investiture_of_ice.html"
+        },
+        "investiture-of-stone": {
+            "url": "/spell:investiture-of-stone",
+            "file": "downloads/spells/spell_investiture_of_stone.html"
+        },
+        "investiture-of-wind": {
+            "url": "/spell:investiture-of-wind",
+            "file": "downloads/spells/spell_investiture_of_wind.html"
+        },
+        "magic-jar": {
+            "url": "/spell:magic-jar",
+            "file": "downloads/spells/spell_magic_jar.html"
+        },
+        "mass-suggestion": {
+            "url": "/spell:mass-suggestion",
+            "file": "downloads/spells/spell_mass_suggestion.html"
+        },
+        "mental-prison": {
+            "url": "/spell:mental-prison",
+            "file": "downloads/spells/spell_mental_prison.html"
+        },
+        "move-earth": {
+            "url": "/spell:move-earth",
+            "file": "downloads/spells/spell_move_earth.html"
+        },
+        "otherworldly-form": {
+            "url": "/spell:otherworldly-form",
+            "file": "downloads/spells/spell_otherworldly_form.html"
+        },
+        "otilukes-freezing-sphere": {
+            "url": "/spell:otilukes-freezing-sphere",
+            "file": "downloads/spells/spell_otilukes_freezing_sphere.html"
+        },
+        "ottos-irresistible-dance": {
+            "url": "/spell:ottos-irresistible-dance",
+            "file": "downloads/spells/spell_ottos_irresistible_dance.html"
+        },
+        "planar-ally": {
+            "url": "/spell:planar-ally",
+            "file": "downloads/spells/spell_planar_ally.html"
+        },
+        "primordial-ward": {
+            "url": "/spell:primordial-ward",
+            "file": "downloads/spells/spell_primordial_ward.html"
+        },
+        "programmed-illusion": {
+            "url": "/spell:programmed-illusion",
+            "file": "downloads/spells/spell_programmed_illusion.html"
+        },
+        "psychic-crush": {
+            "url": "/spell:psychic-crush",
+            "file": "downloads/spells/spell_psychic_crush.html"
+        },
+        "scatter": {
+            "url": "/spell:scatter",
+            "file": "downloads/spells/spell_scatter.html"
+        },
+        "soul-cage": {
+            "url": "/spell:soul-cage",
+            "file": "downloads/spells/spell_soul_cage.html"
+        },
+        "summon-fiend": {
+            "url": "/spell:summon-fiend",
+            "file": "downloads/spells/spell_summon_fiend.html"
+        },
+        "sunbeam": {
+            "url": "/spell:sunbeam",
+            "file": "downloads/spells/spell_sunbeam.html"
+        },
+        "tashas-otherworldly-guise": {
+            "url": "/spell:tashas-otherworldly-guise",
+            "file": "downloads/spells/spell_tashas_otherworldly_guise.html"
+        },
+        "tensers-transformation": {
+            "url": "/spell:tensers-transformation",
+            "file": "downloads/spells/spell_tensers_transformation.html"
+        },
+        "transport-via-plants": {
+            "url": "/spell:transport-via-plants",
+            "file": "downloads/spells/spell_transport_via_plants.html"
+        },
+        "true-seeing": {
+            "url": "/spell:true-seeing",
+            "file": "downloads/spells/spell_true_seeing.html"
+        },
+        "wall-of-ice": {
+            "url": "/spell:wall-of-ice",
+            "file": "downloads/spells/spell_wall_of_ice.html"
+        },
+        "wall-of-thorns": {
+            "url": "/spell:wall-of-thorns",
+            "file": "downloads/spells/spell_wall_of_thorns.html"
+        },
+        "widogast-s-transmogrification-hb": {
+            "url": "/spell:widogast-s-transmogrification-hb",
+            "file": "downloads/spells/spell_widogast_s_transmogrification_hb.html"
+        },
+        "wind-walk": {
+            "url": "/spell:wind-walk",
+            "file": "downloads/spells/spell_wind_walk.html"
+        },
+        "word-of-recall": {
+            "url": "/spell:word-of-recall",
+            "file": "downloads/spells/spell_word_of_recall.html"
+        },
+        "conjure-celestial": {
+            "url": "/spell:conjure-celestial",
+            "file": "downloads/spells/spell_conjure_celestial.html"
+        },
+        "conjure-hezrou": {
+            "url": "/spell:conjure-hezrou",
+            "file": "downloads/spells/spell_conjure_hezrou.html"
+        },
+        "create-magen": {
+            "url": "/spell:create-magen",
+            "file": "downloads/spells/spell_create_magen.html"
+        },
+        "crown-of-stars": {
+            "url": "/spell:crown-of-stars",
+            "file": "downloads/spells/spell_crown_of_stars.html"
+        },
+        "delayed-blast-fireball": {
+            "url": "/spell:delayed-blast-fireball",
+            "file": "downloads/spells/spell_delayed_blast_fireball.html"
+        },
+        "divine-word": {
+            "url": "/spell:divine-word",
+            "file": "downloads/spells/spell_divine_word.html"
+        },
+        "draconic-transformation": {
+            "url": "/spell:draconic-transformation",
+            "file": "downloads/spells/spell_draconic_transformation.html"
+        },
+        "draconic-transformation-ua": {
+            "url": "/spell:draconic-transformation-ua",
+            "file": "downloads/spells/spell_draconic_transformation_ua.html"
+        },
+        "dream-of-the-blue-veil": {
+            "url": "/spell:dream-of-the-blue-veil",
+            "file": "downloads/spells/spell_dream_of_the_blue_veil.html"
+        },
+        "etherealness": {
+            "url": "/spell:etherealness",
+            "file": "downloads/spells/spell_etherealness.html"
+        },
+        "finger-of-death": {
+            "url": "/spell:finger-of-death",
+            "file": "downloads/spells/spell_finger_of_death.html"
+        },
+        "fire-storm": {
+            "url": "/spell:fire-storm",
+            "file": "downloads/spells/spell_fire_storm.html"
+        },
+        "forcecage": {
+            "url": "/spell:forcecage",
+            "file": "downloads/spells/spell_forcecage.html"
+        },
+        "mirage-arcane": {
+            "url": "/spell:mirage-arcane",
+            "file": "downloads/spells/spell_mirage_arcane.html"
+        },
+        "mordenkainens-magnificent-mansion": {
+            "url": "/spell:mordenkainens-magnificent-mansion",
+            "file": "downloads/spells/spell_mordenkainens_magnificent_mansion.html"
+        },
+        "mordenkainens-sword": {
+            "url": "/spell:mordenkainens-sword",
+            "file": "downloads/spells/spell_mordenkainens_sword.html"
+        },
+        "plane-shift": {
+            "url": "/spell:plane-shift",
+            "file": "downloads/spells/spell_plane_shift.html"
+        },
+        "power-word-pain": {
+            "url": "/spell:power-word-pain",
+            "file": "downloads/spells/spell_power_word_pain.html"
+        },
+        "prismatic-spray": {
+            "url": "/spell:prismatic-spray",
+            "file": "downloads/spells/spell_prismatic_spray.html"
+        },
+        "project-image": {
+            "url": "/spell:project-image",
+            "file": "downloads/spells/spell_project_image.html"
+        },
+        "regenerate": {
+            "url": "/spell:regenerate",
+            "file": "downloads/spells/spell_regenerate.html"
+        },
+        "resurrection": {
+            "url": "/spell:resurrection",
+            "file": "downloads/spells/spell_resurrection.html"
+        },
+        "reverse-gravity": {
+            "url": "/spell:reverse-gravity",
+            "file": "downloads/spells/spell_reverse_gravity.html"
+        },
+        "sequester": {
+            "url": "/spell:sequester",
+            "file": "downloads/spells/spell_sequester.html"
+        },
+        "simulacrum": {
+            "url": "/spell:simulacrum",
+            "file": "downloads/spells/spell_simulacrum.html"
+        },
+        "symbol": {
+            "url": "/spell:symbol",
+            "file": "downloads/spells/spell_symbol.html"
+        },
+        "teleport": {
+            "url": "/spell:teleport",
+            "file": "downloads/spells/spell_teleport.html"
+        },
+        "temple-of-the-gods": {
+            "url": "/spell:temple-of-the-gods",
+            "file": "downloads/spells/spell_temple_of_the_gods.html"
+        },
+        "tether-essence": {
+            "url": "/spell:tether-essence",
+            "file": "downloads/spells/spell_tether_essence.html"
+        },
+        "whirlwind": {
+            "url": "/spell:whirlwind",
+            "file": "downloads/spells/spell_whirlwind.html"
+        },
+        "abi-dalzims-horrid-wilting": {
+            "url": "/spell:abi-dalzims-horrid-wilting",
+            "file": "downloads/spells/spell_abi_dalzims_horrid_wilting.html"
+        },
+        "animal-shapes": {
+            "url": "/spell:animal-shapes",
+            "file": "downloads/spells/spell_animal_shapes.html"
+        },
+        "antimagic-field": {
+            "url": "/spell:antimagic-field",
+            "file": "downloads/spells/spell_antimagic_field.html"
+        },
+        "antipathy-sympathy": {
+            "url": "/spell:antipathy-sympathy",
+            "file": "downloads/spells/spell_antipathy_sympathy.html"
+        },
+        "clone": {
+            "url": "/spell:clone",
+            "file": "downloads/spells/spell_clone.html"
+        },
+        "control-weather": {
+            "url": "/spell:control-weather",
+            "file": "downloads/spells/spell_control_weather.html"
+        },
+        "dark-star": {
+            "url": "/spell:dark-star",
+            "file": "downloads/spells/spell_dark_star.html"
+        },
+        "demiplane": {
+            "url": "/spell:demiplane",
+            "file": "downloads/spells/spell_demiplane.html"
+        },
+        "dominate-monster": {
+            "url": "/spell:dominate-monster",
+            "file": "downloads/spells/spell_dominate_monster.html"
+        },
+        "earthquake": {
+            "url": "/spell:earthquake",
+            "file": "downloads/spells/spell_earthquake.html"
+        },
+        "feeblemind": {
+            "url": "/spell:feeblemind",
+            "file": "downloads/spells/spell_feeblemind.html"
+        },
+        "glibness": {
+            "url": "/spell:glibness",
+            "file": "downloads/spells/spell_glibness.html"
+        },
+        "holy-aura": {
+            "url": "/spell:holy-aura",
+            "file": "downloads/spells/spell_holy_aura.html"
+        },
+        "illusory-dragon": {
+            "url": "/spell:illusory-dragon",
+            "file": "downloads/spells/spell_illusory_dragon.html"
+        },
+        "incendiary-cloud": {
+            "url": "/spell:incendiary-cloud",
+            "file": "downloads/spells/spell_incendiary_cloud.html"
+        },
+        "maddening-darkness": {
+            "url": "/spell:maddening-darkness",
+            "file": "downloads/spells/spell_maddening_darkness.html"
+        },
+        "maze": {
+            "url": "/spell:maze",
+            "file": "downloads/spells/spell_maze.html"
+        },
+        "mighty-fortress": {
+            "url": "/spell:mighty-fortress",
+            "file": "downloads/spells/spell_mighty_fortress.html"
+        },
+        "mind-blank": {
+            "url": "/spell:mind-blank",
+            "file": "downloads/spells/spell_mind_blank.html"
+        },
+        "power-word-stun": {
+            "url": "/spell:power-word-stun",
+            "file": "downloads/spells/spell_power_word_stun.html"
+        },
+        "reality-break": {
+            "url": "/spell:reality-break",
+            "file": "downloads/spells/spell_reality_break.html"
+        },
+        "sunburst": {
+            "url": "/spell:sunburst",
+            "file": "downloads/spells/spell_sunburst.html"
+        },
+        "telepathy": {
+            "url": "/spell:telepathy",
+            "file": "downloads/spells/spell_telepathy.html"
+        },
+        "tsunami": {
+            "url": "/spell:tsunami",
+            "file": "downloads/spells/spell_tsunami.html"
+        },
+        "astral-projection": {
+            "url": "/spell:astral-projection",
+            "file": "downloads/spells/spell_astral_projection.html"
+        },
+        "blade-of-disaster": {
+            "url": "/spell:blade-of-disaster",
+            "file": "downloads/spells/spell_blade_of_disaster.html"
+        },
+        "foresight": {
+            "url": "/spell:foresight",
+            "file": "downloads/spells/spell_foresight.html"
+        },
+        "gate": {
+            "url": "/spell:gate",
+            "file": "downloads/spells/spell_gate.html"
+        },
+        "imprisonment": {
+            "url": "/spell:imprisonment",
+            "file": "downloads/spells/spell_imprisonment.html"
+        },
+        "invulnerability": {
+            "url": "/spell:invulnerability",
+            "file": "downloads/spells/spell_invulnerability.html"
+        },
+        "mass-heal": {
+            "url": "/spell:mass-heal",
+            "file": "downloads/spells/spell_mass_heal.html"
+        },
+        "mass-polymorph": {
+            "url": "/spell:mass-polymorph",
+            "file": "downloads/spells/spell_mass_polymorph.html"
+        },
+        "meteor-swarm": {
+            "url": "/spell:meteor-swarm",
+            "file": "downloads/spells/spell_meteor_swarm.html"
+        },
+        "power-word-heal": {
+            "url": "/spell:power-word-heal",
+            "file": "downloads/spells/spell_power_word_heal.html"
+        },
+        "power-word-kill": {
+            "url": "/spell:power-word-kill",
+            "file": "downloads/spells/spell_power_word_kill.html"
+        },
+        "prismatic-wall": {
+            "url": "/spell:prismatic-wall",
+            "file": "downloads/spells/spell_prismatic_wall.html"
+        },
+        "psychic-scream": {
+            "url": "/spell:psychic-scream",
+            "file": "downloads/spells/spell_psychic_scream.html"
+        },
+        "ravenous-void": {
+            "url": "/spell:ravenous-void",
+            "file": "downloads/spells/spell_ravenous_void.html"
+        },
+        "shapechange": {
+            "url": "/spell:shapechange",
+            "file": "downloads/spells/spell_shapechange.html"
+        },
+        "storm-of-vengeance": {
+            "url": "/spell:storm-of-vengeance",
+            "file": "downloads/spells/spell_storm_of_vengeance.html"
+        },
+        "time-ravage": {
+            "url": "/spell:time-ravage",
+            "file": "downloads/spells/spell_time_ravage.html"
+        },
+        "time-stop": {
+            "url": "/spell:time-stop",
+            "file": "downloads/spells/spell_time_stop.html"
+        },
+        "true-polymorph": {
+            "url": "/spell:true-polymorph",
+            "file": "downloads/spells/spell_true_polymorph.html"
+        },
+        "true-resurrection": {
+            "url": "/spell:true-resurrection",
+            "file": "downloads/spells/spell_true_resurrection.html"
+        },
+        "weird": {
+            "url": "/spell:weird",
+            "file": "downloads/spells/spell_weird.html"
+        },
+        "wish": {
+            "url": "/spell:wish",
+            "file": "downloads/spells/spell_wish.html"
+        }
+    }
+}
